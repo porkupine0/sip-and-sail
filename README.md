@@ -29,4 +29,10 @@ SITE_URL="https://porkupine0.github.io/sip-and-sail/" node build.js
 cp dist/web/* .. && cp dist/Sip-and-Sail.html ..
 ```
 
+GitHub Pages serves the site from the `gh-pages` branch, so push changes to both branches:
+
+```
+git push origin main main:gh-pages
+```
+
 Unofficial guide, not affiliated with Celebrity Cruises. Drink responsibly.
