@@ -1,0 +1,38 @@
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false"><defs id="glass-defs"></defs></svg>
+<div class="app" id="app">
+  <header class="top">
+    <div class="brand">
+      <span class="flags" aria-hidden="true" title="S·I·P in signal flags">
+        <svg width="16" height="12" viewBox="0 0 16 12"><rect width="16" height="12" fill="#ffffff"/><rect x="5.5" y="3.5" width="5" height="5" fill="#1d4f91"/></svg>
+        <svg width="16" height="12" viewBox="0 0 16 12"><rect width="16" height="12" fill="#f2c230"/><circle cx="8" cy="6" r="3.2" fill="#111111"/></svg>
+        <svg width="16" height="12" viewBox="0 0 16 12"><rect width="16" height="12" fill="#1d4f91"/><rect x="4.5" y="3" width="7" height="6" fill="#ffffff"/></svg>
+      </span>
+      <div>
+        <h1>Sip &amp; Sail</h1>
+        <p class="sub" id="brand-sub">Cruise drink companion</p>
+      </div>
+    </div>
+    <button class="status-pill" id="status" data-act="offline-help" type="button"><i></i><span>Offline</span></button>
+    <button class="icon-btn" data-act="settings" type="button" aria-label="Settings">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.8l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.8-.3 1.7 1.7 0 0 0-1 1.5V21a2 2 0 1 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.5 1.7 1.7 0 0 0-1.8.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.8 1.7 1.7 0 0 0-1.5-1H3a2 2 0 1 1 0-4h.1a1.7 1.7 0 0 0 1.5-1.1 1.7 1.7 0 0 0-.3-1.8l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.8.3H9a1.7 1.7 0 0 0 1-1.5V3a2 2 0 1 1 4 0v.1a1.7 1.7 0 0 0 1 1.5 1.7 1.7 0 0 0 1.8-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.8V9a1.7 1.7 0 0 0 1.5 1H21a2 2 0 1 1 0 4h-.1a1.7 1.7 0 0 0-1.5 1z"/></svg>
+    </button>
+  </header>
+  <main>
+    <section class="view" id="v-home" aria-label="Today"></section>
+    <section class="view" id="v-browse" aria-label="All drinks" hidden></section>
+    <section class="view" id="v-quiz" aria-label="Mood match" hidden></section>
+    <section class="view" id="v-mybar" aria-label="My bar" hidden></section>
+    <section class="view" id="v-guide" aria-label="Guide" hidden></section>
+  </main>
+</div>
+<nav class="tabs" aria-label="Sections">
+  <div class="in">
+    <button type="button" data-go="home"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="4.5" r="2"/><path d="M12 6.5V21M8 10h8M4.5 13.5c0 4.2 3.4 7.5 7.5 7.5s7.5-3.3 7.5-7.5M4.5 13.5 3 15M4.5 13.5 6 15M19.5 13.5 18 15M19.5 13.5 21 15"/></svg><span>Today</span></button>
+    <button type="button" data-go="browse"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16l-8 9.5L4 4zM12 13.5V20M8 20.5h8M15.5 2.5l-3 6"/><circle cx="12" cy="8" r="1.2"/></svg><span>Drinks</span></button>
+    <button type="button" data-go="quiz"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="m15.6 8.4-2.1 5.1-5.1 2.1 2.1-5.1z"/></svg><span>Mood</span></button>
+    <button type="button" data-go="mybar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20s-7.5-4.6-7.5-10.2A4.2 4.2 0 0 1 12 7.3a4.2 4.2 0 0 1 7.5 2.5C19.5 15.4 12 20 12 20z"/></svg><span>My Bar</span></button>
+    <button type="button" data-go="guide"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><path d="m5.6 5.6 3.6 3.6M14.8 14.8l3.6 3.6M18.4 5.6l-3.6 3.6M9.2 14.8l-3.6 3.6"/></svg><span>Guide</span></button>
+  </div>
+</nav>
+<div id="layer"></div>
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>

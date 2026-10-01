@@ -1,0 +1,44 @@
+@cat martini
+Espresso Martini|coffee,pop|martini|sh|2 vodka;1 espresso;.5 kahlua;.25 simple|Three coffee beans|Shake hard for a thick crema. The after-dinner pick-me-up.
+Coconut Espresso Martini|coffee,tropical|martini|sh|1.5 vodka;.5 crum;1 espresso;.5 kahlua;.5 cococream|Toasted coconut|For coconut lovers: creamy and caffeinated.
+Salted Caramel Espresso Martini|coffee,dessert|martini|sh|1.5 vanvod;1 espresso;.5 kahlua;.5 caramel;pinch salt|Caramel drizzle|Dessert and coffee in one glass.
+Irish Cream Espresso Martini|coffee,creamy|martini|sh|1 vodka;1 baileys;1 espresso;.5 kahlua|Cocoa dust|Silky, sweet and caffeinated.
+Cosmopolitan|tart,fruity,pop|martini|sh|1.5 citron;.75 cointreau;1 cran;.5 lime|Flamed orange twist|The '90s icon. Ask for citrus vodka.
+White Cosmopolitan|tart,elegant|martini|sh|1.5 citron;.75 cointreau;1 wcran;.5 lime|Frozen cranberries or orange twist|The cosmo in a white dress.
+Lemon Drop|tart,sweet,citrus,pop|martini|sh|rim sugar;2 citron;.5 cointreau;1 lemon;.5 simple|Lemon twist|Sweet-tart and sugar-rimmed.
+Raspberry Lemon Drop|tart,fruity|martini|sh|rim sugar;2 citron;.5 chambord;1 lemon;.25 simple|Raspberries|Pink and tangy.
+Lavender Lemon Drop|floral,tart|martini|sh|rim sugar;2 vodka;.75 lemon;.5 lavender;.25 cointreau|Lavender sprig or lemon twist|A floral lemon drop.
+French Martini|fruity,sweet,pop|martini|sh|1.5 vodka;.5 chambord;1.5 pine|Raspberry|Silky pineapple foam with raspberry depth.
+Passion Fruit Martini|fruity,tropical,elegant,pop|coupe|sh|1.5 vanvod;.5 passoa;1 passion;.5 lime;.5 vanilla;?2 prosecco:as a sidecar shot|Half a passion fruit|The drink formerly called the "Pornstar Martini." Sip the bubbly on the side.
+Lychee Martini|floral,fruity,elegant,pop|martini|sh|2 vodka;.75 lychee-liq;1 lychee|Lychee on a pick|Delicate, floral and fruity.
+Appletini|sweet,tart,fun,pop|martini|sh|1.5 vodka;1 sourapple;.5 lemon|Apple slice|Neon green and unapologetic.
+Chocolate Martini|dessert,sweet|martini|sh|1.5 vanvod;1 godiva;.5 cacao;.5 cream|Chocolate drizzle|Dessert in a glass. Ask for a cocoa or chocolate-swirl rim.
+Chocolate Raspberry Martini|dessert,berry|martini|sh|1.5 vanvod;1 godiva;.5 chambord;.5 cream|Raspberry|Chocolate-covered raspberries, shaken.
+White Chocolate Martini|dessert,creamy|martini|sh|1.5 vanvod;1 cacao;1 cream|White chocolate shavings|Rich, creamy and sweet.
+Mint Chocolate Martini|dessert,minty|martini|sh|1.5 vanvod;.75 cacao;.75 menthe;1 cream|Chocolate shavings|Mint-chocolate-chip ice cream, shaken.
+Hazelnut Martini|dessert,nutty|martini|sh|1.5 vanvod;1 frangelico;.75 dcacao;.75 cream|Chocolate rim|Chocolate-hazelnut, like the spread.
+Tiramisu Martini|dessert,coffee|martini|sh|1 vanvod;.75 kahlua;.75 baileys;.5 espresso;.5 cream|Cocoa dust|Italy's favorite dessert in a martini glass.
+Key Lime Pie Martini|dessert,tart,creamy,pop|martini|sh|rim graham;1.5 vanvod;1 licor43;1 lime;1 cream|Lime wheel|A Key West favorite with a graham-cracker rim.
+Pineapple Upside-Down Martini|dessert,fruity,sweet|martini|sh|1.5 vanvod;.5 butter;2 pine;sp grenadine|Pineapple & cherry|Like the cake.
+Birthday Cake Martini|dessert,sweet,fun|martini|sh|rim sprinkles;1.5 vanvod;.75 cacao;1 cream|Sprinkle rim|For birthdays and anniversaries at sea.
+Coconut Cream Pie Martini|dessert,creamy,tropical|martini|sh|rim toastedcoco;1 vanvod;1 crum;1 cococream;1 cream|Toasted coconut rim|Coconut cream pie, shaken.
+Caramel Apple Martini|dessert,sweet|martini|sh|1.5 vodka;1 sourapple;.5 butter|Apple slice|Caramel-apple candy vibes.
+Dirty Martini|savory,strong,dry,pop|martini|st|2.5 vodka:or gin;.25 vermd;.5 olivebrine|Olives|Say "extra dirty" if you love olive brine.
+Classic Gin Martini|dry,strong,elegant,pop|martini|st|2.5 gin;.5 vermd;d1 orangebitters|Lemon twist or olive|The king of cocktails. Ask for it "dry" (less vermouth) or "wet" (more).
+Vodka Martini|dry,strong,pop|martini|st|2.5 vodka;.5 vermd|Lemon twist or olives|Clean and cold. Shaken or stirred: your call.
+Vesper|dry,strong,elegant,pop|martini|sh|2 gin;.75 vodka;.5 lillet|Lemon peel|James Bond's martini from Casino Royale.
+Gibson|dry,strong,savory,pop|martini|st|2.5 gin;.5 vermd|Cocktail onions|A martini garnished with pickled onions.
+Martinez|strong,herbal|coupe|st|1.5 oldtom:or London dry gin;1.5 verms;.25 maraschino;d2 orangebitters|Orange twist|The martini's sweeter 1880s ancestor.
+Breakfast Martini|citrus,tart|martini|sh|2 gin;.5 cointreau;.75 lemon;b2 marmalade|Orange twist|Salvatore Calabrese's 1996 classic, made with orange marmalade.
+Pomegranate Martini|fruity,tart|martini|sh|1.5 vodka;.5 cointreau;1.5 pomegranate;.5 lemon|Pomegranate seeds|Jewel-red and tart.
+Watermelon Martini|fruity,fresh|martini|sh|1.5 vodka;2 watermelon-j;.5 lime;.25 simple|Watermelon wedge|Light and refreshing.
+Cucumber Elderflower Martini|fresh,floral|martini|mus|x4 cucumber;2 vodka;.75 stg;.5 lime|Cucumber ribbon|Crisp and garden-fresh.
+Peach Martini|fruity,sweet|martini|sh|1.5 vodka;.75 peach;1 peach-pur;.5 lemon|Peach slice|Juicy and smooth.
+Mango Martini|fruity,tropical|martini|sh|1.5 vodka;.5 cointreau;1.5 mango;.5 lime|Mango slice|Tropical and silky.
+Bikini Martini|tropical,fruity,fun|martini|sh|1.5 vodka;.5 bcur;.5 peach;1.5 pine|Pineapple wedge|Beach-blue vodka, peach and pineapple.
+Melon Martini|sweet,fun|martini|sh|1.5 vodka;1 midori;1 pine;.25 lime|Melon ball or lime wheel|Bright green and candy-sweet.
+Raspberry Martini|fruity,berry|martini|sh|2 rasvod;.5 chambord;.5 lemon;.5 simple|Raspberries|All raspberry, all the time.
+Flirtini|bubbly,fruity|martini|sh|1 vodka;1 pine;?.25 cointreau;top champ|Cherry|Vodka, pineapple and Champagne. A Sex and the City favorite.
+Orange Blossom Martini|citrus,floral|martini|sh|1.5 orvod;.5 cointreau;1 oj;.25 lemon;d2 ofw|Orange twist|Bright orange with a floral finish.
+Cucumber Basil Gin Martini|fresh,herbal|martini|mus|x3 cucumber;x4 basil;2 gin;.5 lime;.5 simple|Basil leaf|Garden-fresh and herbal.
+Blood Orange Martini|citrus,fruity|martini|sh|1.5 vodka;.5 cointreau;1.5 oj:blood orange;.25 lemon|Blood orange wheel|Sunset-red and citrusy.

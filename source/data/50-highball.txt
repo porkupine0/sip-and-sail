@@ -1,0 +1,63 @@
+@cat highball
+Mojito|minty,fresh,pop|highball|mu|x10 mint;.75 lime;.75 simple;2 wrum;top soda|Mint sprig & lime wheel|Havana's refresher. Ask them to muddle gently and use crushed ice.
+Strawberry Mojito|minty,fruity|highball|mu|x8 mint;x3 straw;.75 lime;.5 simple;2 wrum;top soda|Strawberry & mint|Berry-sweet and minty.
+Raspberry Mojito|minty,fruity,berry|highball|mu|x8 mint;x6 raspberries;.75 lime;.5 simple;2 wrum;top soda|Raspberries & mint|Tart raspberries, fresh mint.
+Watermelon Mojito|minty,fruity,fresh|highball|mu|x8 mint;x4 melon;.75 lime;.5 simple;2 wrum;top soda|Watermelon wedge|The ultimate hot-day mojito.
+Royal Mojito|minty,bubbly,elegant|highball|mu|x8 mint;.75 lime;.75 simple;1.5 wrum;top champ|Mint sprig|A mojito topped with Champagne instead of soda.
+Cuba Libre|citrus,pop|highball|bu|2 wrum;.5 lime;top cola|Lime wedge|Rum and Coke, upgraded with fresh lime.
+Captain & Coke|sweet,pop|highball|bu|2 srum;top cola|Lime wedge|A spiced-rum classic.
+Dark 'n' Stormy|ginger,pop|highball|bu|4 gbeer;?.5 lime;f2 drum:Gosling's Black Seal|Lime wedge|Bermuda's highball: ginger beer topped with black rum.
+Moscow Mule|ginger,fresh,pop|copper|bu|2 vodka;.5 lime;top gbeer|Lime wedge & mint|Served ice-cold in a copper mug.
+London Mule|ginger,fresh|copper|bu|2 gin;.5 lime;top gbeer|Lime wedge|Also called a Gin Buck.
+Jamaican Mule|ginger,spicy|copper|bu|2 jrum:or spiced rum;.5 lime;top gbeer|Lime wedge|Funky rum and spicy ginger.
+Pineapple Mule|ginger,fruity,tropical|copper|bu|2 vodka;1.5 pine;.5 lime;top gbeer|Pineapple wedge|Tropical mule.
+Blackberry Mule|ginger,berry|copper|mu|x4 blackberries;2 vodka;.5 lime;top gbeer|Blackberries & mint|Jammy berries and spicy ginger.
+Gin Gin Mule|minty,ginger,fresh|highball|mus|x6 mint;1.5 gin;.75 lime;.75 simple;top gbeer|Mint sprig|Audrey Saunders' gin mojito-meets-mule.
+Gin & Tonic|bitter,fresh,dry,pop|highball|bu|2 gin;top tonic|Lime wedge|Name your gin: Hendrick's with cucumber, Tanqueray with lime.
+Spanish Gin Tonic|fresh,herbal,elegant|goblet|bu|2 gin;5 tonic|Citrus peel, juniper & herbs|Spain's big-glass G&T, loaded with ice and aromatics.
+Elderflower Gin & Tonic|floral,fresh|goblet|bu|2 gin;.5 stg;top tonic|Cucumber ribbon|A softer, floral G&T.
+Vodka Tonic|fresh,dry,pop|highball|bu|2 vodka;top tonic|Lime wedge|Crisp and bitter-dry.
+Vodka Soda|fresh,dry,pop|highball|bu|2 vodka;top soda|Lime wedge|The low-sugar classic. Ask for a splash of cranberry or fresh lime.
+Vodka Cranberry|fruity,pop|highball|bu|2 vodka;4 cran;?.25 lime|Lime wedge|Also known as a Cape Codder.
+Sea Breeze|fruity,fresh,pop|highball|bu|1.5 vodka;3 cran;1.5 grapefruit|Lime wedge|Tart, pink and refreshing.
+Bay Breeze|fruity,tropical,pop|highball|bu|1.5 vodka;3 pine;1.5 cran|Pineapple wedge|Pineapple and cranberry.
+Malibu Bay Breeze|tropical,fruity,sweet,pop|highball|bu|2 crum;3 pine;1.5 cran|Pineapple wedge|Coconut rum, pineapple and cranberry.
+Malibu Pineapple|tropical,sweet,pop|highball|bu|2 crum;4 pine|Pineapple wedge|The easiest beach drink there is.
+Madras|fruity,pop|highball|bu|1.5 vodka;3 cran;1.5 oj|Orange slice|Cranberry and orange.
+Screwdriver|fruity,brunch,pop|highball|bu|2 vodka;5 oj|Orange slice|Vodka and OJ. A sea-day brunch staple.
+Greyhound|tart,fresh,pop|highball|bu|2 vodka;5 grapefruit|Grapefruit wedge|Add a salted rim and it's a Salty Dog.
+Salty Dog|tart,fresh,pop|highball|bu|rim salt;2 gin:or vodka;5 grapefruit|Grapefruit wedge|Grapefruit, gin and a salted rim.
+Harvey Wallbanger|fruity,herbal,pop|highball|bu|1.5 vodka;4 oj;f.5 galliano|Orange slice|A 1970s screwdriver with a Galliano float.
+Sex on the Beach|fruity,sweet,fun,pop|highball|bu|1.5 vodka;.5 peach;2 oj;2 cran|Orange slice|Peach, orange and cranberry.
+Fuzzy Navel|fruity,sweet,pop|highball|bu|2 peach;4 oj|Orange slice|Peach schnapps and OJ.
+Woo Woo|fruity,pop|highball|bu|1.5 vodka;.75 peach;3 cran|Lime wedge|Vodka, peach and cranberry.
+Long Island Iced Tea|strong,fun,pop|collins|bu|.5 vodka;.5 gin;.5 wrum;.5 teq;.5 cointreau;.75 lemon;.5 simple;top cola|Lemon wedge|Five spirits, no tea. Pace yourself.
+Long Beach Iced Tea|strong,fun,pop|collins|bu|.5 vodka;.5 gin;.5 wrum;.5 teq;.5 cointreau;.75 lemon;.5 simple;top cran|Lemon wedge|The Long Island with cranberry instead of cola.
+Tokyo Tea|strong,fun|collins|bu|.5 vodka;.5 gin;.5 wrum;.5 teq;.5 cointreau;.5 midori;.75 lemon;top lemonlime|Cherry|A green Long Island with melon liqueur.
+Electric Lemonade|fun,citrus,sweet,pop|collins|bu|1.5 vodka;.5 bcur;2 lemonade;top lemonlime|Lemon wheel|Glowing-blue lemonade.
+Blue Lagoon|fun,citrus,pop|highball|bu|1.5 vodka;.75 bcur;top lemonade|Lemon wheel & cherry|Vodka, blue curaçao and lemonade.
+Dirty Shirley|sweet,fun,pop|highball|bu|1.5 vodka;4 lemonlime;.5 grenadine|Maraschino cherries|A Shirley Temple for grown-ups.
+Tom Collins|citrus,fresh,pop|collins|bu|2 gin;1 lemon;.75 simple;top soda|Lemon wheel & cherry|Tall, tart and fizzy.
+Vodka Collins|citrus,fresh,pop|collins|bu|2 vodka;1 lemon;.75 simple;top soda|Lemon wheel & cherry|The Tom Collins made with vodka.
+Elderflower Collins|floral,fresh|collins|bu|1.5 gin;.75 stg;.75 lemon;top soda|Cucumber slice|Light and floral.
+Gin Rickey|tart,dry,fresh,pop|highball|bu|2 gin;.75 lime;top soda|Lime wedge|Unsweetened and bracing. Washington, D.C.'s official cocktail.
+Floradora|fruity,ginger|highball|bu|1.5 gin;.5 lime;.5 rasp-syrup;top gale|Raspberries|Named after a 1900 Broadway hit.
+Americano|bitter,fresh,pop|highball|bu|1.5 campari;1.5 verms;top soda|Orange slice|Milan's 1860s aperitivo: low-alcohol and bittersweet.
+Campari Soda|bitter,fresh,pop|highball|bu|2 campari;top soda|Orange slice|Italy's classic bittersweet aperitivo.
+Garibaldi|bitter,fruity,brunch|highball|bu|1.5 campari;4 oj:fluffy, freshly juiced|Orange wedge|Named for Italy's unifier: Campari plus whipped-up OJ.
+Fernet con Coca|bitter,herbal|highball|bu|2 fernet;top cola|No garnish|Argentina's national obsession.
+Piscola|fresh|highball|bu|2 pisco;top cola|Lime wedge|Chile's favorite highball.
+Chilcano|fresh,ginger|highball|bu|2 pisco;.5 lime;d2 angostura;top gale|Lime wedge|Peru's easy pisco highball.
+Ting with a Sting|citrus,fresh|highball|bu|2 wrum:CSR or local rum;top gfsoda:Ting|Lime wedge|St. Kitts favorite: rum and Ting grapefruit soda.
+Cyprus Brandy Sour|citrus,fresh|highball|bu|2 brandy;1 lemon;.5 simple;d3 angostura;top soda|Lemon slice|Cyprus' national drink. Locals use lemon squash.
+Horse's Neck|ginger|highball|bu|2 brandy;d2 angostura;top gale|Long lemon spiral|Brandy and ginger ale with a dramatic lemon peel.
+Bloody Mary|savory,spicy,brunch,pop|highball|bu|2 vodka;4 tomato;.5 lemon;d3 worcestershire;d2 hotsauce;pinch celerysalt;pinch pepper;?b1 horseradish|Celery, lemon & olives|Sea-day brunch essential. Ask for it "spicy" or "extra horseradish."
+Bloody Caesar|savory,spicy,brunch,pop|highball|bu|rim celerysalt;2 vodka;4 clamato;.5 lime;d3 worcestershire;d2 hotsauce|Celery & lime wedge|Canada's national brunch drink.
+Red Snapper|savory,spicy,brunch|highball|bu|2 gin;4 tomato;.5 lemon;d3 worcestershire;d2 hotsauce;pinch pepper|Celery & lemon|A Bloody Mary made with gin.
+Vodka Red Bull|fun|highball|bu|1.5 vodka;4 redbull|No garnish|Late-night fuel. Go easy: caffeine masks how much you've had.
+Pimm's Cup|fruity,fresh|highball|bu|2 pimms;.5 lemon;top gale;x2 cucumber|Cucumber, strawberry, mint & orange|England's summer sipper (think Wimbledon).
+Vodka Lemonade|citrus,sweet|highball|bu|2 vodka;4 lemonade|Lemon wheel|Easy and sunny.
+John Daly|citrus,fresh|highball|bu|1.5 vodka;3 tea;3 lemonade|Lemon wheel|A spiked Arnold Palmer.
+Cucumber Mint Cooler|fresh|highball|mu|x4 cucumber;x6 mint;2 vodka;.5 lime;top soda|Cucumber slice|Low-sugar refresher for hot afternoons.
+Ouzo & Water|anise,fresh|highball|bu|1.5 ouzo;3 water|No garnish|Add water and ice and it turns milky-white. A Greek taverna ritual with mezedes.
+Pastis|anise,fresh|highball|bu|1 pastis;5 water|No garnish|Provence's afternoon ritual: one part pastis to five parts cold water.

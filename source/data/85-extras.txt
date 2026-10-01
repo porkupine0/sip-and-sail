@@ -1,0 +1,67 @@
+@cat tiki
+Piña Fumada|tropical,smoky,creamy|hurricane|bl|2 mezcal;2 cococream;3 pine;.5 lime|Pineapple wedge|A smoky mezcal piña colada. Ideal if you love tequila and coconut.
+Jamaican Rum Punch|tropical,fruity,strong|hurricane|shr|1.5 oprum:Wray & Nephew;1 pine;1 oj;.75 lime;.5 rasp-syrup:or strawberry syrup;.25 grenadine|Orange slice & cherry|Jamaica's punch, made with fiery overproof white rum.
+Midori Splice|tropical,creamy,fun|hurricane|shr|1 midori;1 crum;3 pine;1 cream|Pineapple wedge|An Australian favorite: melon, coconut and pineapple.
+Coconut Mule|tropical,ginger|copper|bu|2 crum;.5 lime;top gbeer|Lime wedge & mint|Coconut rum and spicy ginger beer.
+@cat marg
+Tequila Lemonade|citrus,fresh|highball|bu|2 teq;4 lemonade|Lemon wheel|Easy, sunny and dangerous.
+@cat martini
+Strawberry Martini|fruity,berry|martini|mus|x3 straw;2 vodka;.5 lemon;.5 simple|Strawberry|Fresh strawberries, shaken.
+@cat classic
+Japanese Slipper|sweet,tart,fun|coupe|sh|1 midori;1 cointreau;1 lemon|Honeydew slice or cherry|Melbourne, 1984: bright green and tangy.
+Tuxedo No. 2|dry,strong|coupe|st|rinse absinthe;2 gin;1 vermd;b1 maraschino;d2 orangebitters|Cherry & lemon twist|A dressed-up 1900s martini.
+Alaska|herbal,strong|coupe|st|2 gin;.5 charty;d1 orangebitters|Lemon twist|Gin and yellow Chartreuse, honeyed and herbal.
+Pink Gin|dry,strong,bitter|coupe|st|2 gin;d3 angostura|Lemon twist|The Royal Navy's classic.
+Vodka Sour|tart|rocks|shr|2 vodka;.75 lemon;.75 simple;?.75 eggwhite|Lemon wheel|Clean and tangy.
+Chilean Pisco Sour|tart,fresh|coupe|sh|2 pisco;.75 lemon;.75 simple|Lemon twist|The Chilean version: no egg white, no bitters.
+Gin Daisy|fruity,citrus|highball|shr|2 gin;.75 lemon;.5 grenadine;top soda|Orange slice & cherry|A pink, fizzy 1870s classic.
+French Connection|nutty,strong|rocks|str|1.5 cognac;.75 amaretto|No garnish|Cognac and amaretto, an easy nightcap.
+Charlie Chaplin|fruity,tart|coupe|sh|1 sloe;1 apricot;1 lime|Lime wheel|Named after the silent-film star, from the old Waldorf-Astoria bar.
+Aperol Sour|bitter,tart|coupe|sh|1.5 aperol;.75 lemon;.5 simple;.75 eggwhite|Orange twist|Low-alcohol, bittersweet and frothy.
+@cat highball
+Gin & Juice|fruity,fun|highball|bu|2 gin;2 oj;2 grapefruit|Orange slice|Laid back.
+Limoncello Collins|citrus,fresh|collins|bu|1 gin;1 limoncello;.5 lemon;top soda|Lemon wheel|Amalfi lemons, tall and fizzy.
+Rum Collins|citrus,fresh|collins|bu|2 wrum;1 lime;.75 simple;top soda|Lime wheel & cherry|A Tom Collins made with rum.
+Pink Lemonade Vodka|fruity,sweet|highball|bu|2 vodka;4 pinklemonade|Lemon wheel|Simple, sweet and pink.
+Vodka Cherry Limeade|fruity,sweet|highball|bu|1.5 vodka;.75 lime;.5 grenadine;top lemonlime|Cherries & lime|The drive-in classic for grown-ups.
+Strawberry Mule|ginger,fruity|copper|mu|x3 straw;2 vodka;.5 lime;top gbeer|Strawberry & mint|Berry-sweet mule.
+Blueberry Mojito|minty,berry|highball|mu|x8 mint;x10 blueberries;.75 lime;.5 simple;2 wrum;top soda|Blueberries & mint|Purple and minty.
+@cat wine
+Rosé Sangria|fruity,fresh|wine|bu|4 rosewine;.75 brandy;.5 cointreau;1 lemonlime;x3 straw|Strawberries & orange|Pink, light and fruity.
+@cat beer
+Spaghett|bitter,fresh,fun|pint|bu|12 beer;1 aperol;.5 lemon|Lemon wedge|A light lager "spritzed" with Aperol and lemon.
+Shandy Gaff|ginger,fresh|pint|bu|6 beer;6 gbeer|Lemon wheel|Beer and ginger beer, a British pub classic.
+Kir Breton|fruity|wine|bn|.5 cassis;5 cider|No garnish|Brittany's cider with blackcurrant.
+@cat dessert
+Gin Alexander|dessert,creamy|coupe|sh|1.5 gin;1 cacao;1 cream|Grated nutmeg|The original Alexander, before brandy took over.
+@cat coffee
+Café Brûlot|coffee,spicy|mug|hot|1 brandy;.5 gm;4 coffee;d1 cinnamon|Orange peel & cinnamon stick|New Orleans' flaming spiced coffee.
+@cat zero
+Ginger Lemonade|ginger,citrus|highball|bu|1 lemon;.75 ginger-syrup;5 water|Lemon wheel|Zingy and refreshing.
+Cucumber Lime Fizz|fresh|coupe|mus|x3 cucumber;1 lime;.75 simple;2 soda|Cucumber ribbon|Like a cucumber gimlet, zero-proof.
+Pineapple Mint Cooler|tropical,minty,fresh|highball|mu|x6 mint;3 pine;.5 lime;top soda|Pineapple wedge|Pineapple and mint with bubbles.
+Hot Spiced Cider|spicy,sweet|mug|bn|6 apple:=Hot apple juice;d1 cinnamon|Cinnamon stick|Warm apple juice with spice.
+@cat tiki
+Guava Daiquiri (Frozen)|fruity,tropical|hurricane|bl|2 wrum;2.5 guava;.75 lime;.25 simple|Lime wheel|Pink, tropical and smooth.
+@cat marg
+Guava Margarita|fruity,tropical|rocks|shr|?rim tajin;2 teq;2 guava;.75 lime;.5 cointreau|Lime wheel|Sweet guava and tart lime.
+@cat bubbly
+Guava Mimosa|brunch,tropical|flute|bn|2 guava;3.5 champ|No garnish|A pink, tropical brunch mimosa.
+@cat classic
+Ginger Gimlet|citrus,ginger|coupe|sh|2 gin;.5 ginger-liq;.75 lime;.25 simple|Candied ginger or lime wheel|A gimlet with a warm ginger edge.
+Old-School Gimlet|sweet,citrus|coupe|st|2 gin;1 lime-cordial|Lime wheel|The 1920s Royal Navy version, made with Rose's lime cordial.
+@cat highball
+Hpnotiq Breeze|tropical,fruity,fun|highball|bu|1.5 hpnotiq;2 pine;top lemonlime|Lime wheel|Ice-blue and tropical.
+Orange Crush|citrus,fresh,pop|highball|bu|2 orvod;.75 cointreau;3 oj:freshly squeezed;top lemonlime|Orange wedge|Ocean City, Maryland's boardwalk favorite.
+Rosemary Greyhound|fresh,herbal|highball|bu|2 vodka;4 grapefruit;.25 simple;x1 rosemary|Rosemary sprig|An herbal, slightly sweet greyhound.
+Ginger Mojito|minty,ginger,fresh|highball|mu|x3 ginger;x8 mint;.75 lime;.5 simple;2 wrum;top soda|Mint sprig|Fresh ginger gives the mojito a kick.
+Mango Mule|ginger,tropical|copper|bu|2 vodka;1.5 mango;.5 lime;top gbeer|Mango slice & mint|Tropical and spicy.
+@cat shot
+Creamsicle Shot|dessert,fun|shot|sht|.75 whipvod;.75 oj|No garnish|Orange and cream.
+Aguardiente|anise|shot|po|1 aguardiente|No garnish|Colombia's anise spirit. Sip it with friends.
+@cat zero
+Guava Cooler|tropical,fresh|highball|bu|3 guava;.5 lime;top soda|Lime wheel|Bubbly guava refresher.
+Fresh Limeade|tart,fresh|highball|bu|1 lime;.75 simple;5 water|Lime wheel|Simple and thirst-quenching.
+Orange Float|dessert,fun|highball|bn|8 orangesoda;sc1 icecream|No garnish|A creamsicle float.
+Rosemary Lemonade|herbal,citrus|highball|bu|x1 rosemary;5 lemonade|Rosemary sprig|Lemonade with an herbal note.
+Strawberry Basil Lemonade|fruity,herbal|highball|mu|x2 straw;x4 basil;5 lemonade|Basil leaf|Sweet, tart and garden-fresh.

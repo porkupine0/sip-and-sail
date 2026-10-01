@@ -1,0 +1,51 @@
+const { chromium } = require('playwright');
+const path = require('path');
+const OUT = p => path.join(__dirname, 'shots', p);
+(async () => {
+  const browser = await chromium.launch();
+  const ctx = await browser.newContext({ viewport: { width: 390, height: 844 }, isMobile: true, hasTouch: true });
+  const page = await ctx.newPage();
+  const errors = [];
+  page.on('pageerror', e => errors.push('pageerror: ' + e.message));
+  page.on('console', m => { if (m.type() === 'error') errors.push('console: ' + m.text()); });
+  await page.goto('http://localhost:8080/');
+  await page.waitForFunction(() => document.querySelector('#status span').textContent === 'Offline ready', null, { timeout: 15000 });
+  const sw = await page.evaluate(async () => { const r = await navigator.serviceWorker.ready; return !!r.active; });
+  // go offline and reload
+  await ctx.setOffline(true);
+  await page.reload();
+  await page.waitForTimeout(800);
+  const offlineTitle = await page.title();
+  const recipesShown = await page.evaluate(() => document.querySelector('#brand-sub').textContent);
+  await page.evaluate(() => document.querySelector('.tabs [data-go="browse"]').click());
+  await page.waitForTimeout(300);
+  const count = await page.textContent('#count');
+  // manifest check
+  await ctx.setOffline(false);
+  const manifest = await page.evaluate(async () => (await fetch('manifest.webmanifest')).json());
+  // extra screens
+  await page.click('[data-act="filters"]');
+  await page.waitForTimeout(300);
+  await page.screenshot({ path: OUT('20-filters-top.png') });
+  await page.click('.panel-bar [data-act="close"]');
+  await page.waitForTimeout(200);
+  await page.fill('#q', 'zombie');
+  await page.waitForTimeout(300);
+  await page.click('#results .row');
+  await page.waitForTimeout(300);
+  await page.screenshot({ path: OUT('21-zombie.png') });
+  await page.click('.panel [data-act="close"]');
+  await page.click('[data-act="settings"]');
+  await page.waitForTimeout(300);
+  await page.screenshot({ path: OUT('22-settings.png') });
+  await page.fill('#s-pkg', '110');
+  await page.dispatchEvent('#s-pkg', 'change');
+  await page.click('.panel [data-act="close"]');
+  await page.evaluate(() => document.querySelector('.tabs [data-go="mybar"]').click());
+  await page.waitForTimeout(200);
+  await page.click('[data-act="bartab"][data-k="shop"]');
+  await page.waitForTimeout(200);
+  await page.screenshot({ path: OUT('23-homebar.png'), fullPage: true });
+  console.log(JSON.stringify({ sw, offlineTitle, recipesShown, count, manifestName: manifest.name, errors }, null, 1));
+  await browser.close();
+})();

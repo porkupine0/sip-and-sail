@@ -1,0 +1,63 @@
+# Name|tags|glass|method|ingredients|garnish|note
+@cat tiki
+Piña Colada|tropical,sweet,pop|hurricane|bl|2 wrum;2 cococream;3 pine;?.5 lime|Pineapple wedge & cherry|Born in Puerto Rico in the 1950s. Ask for a dark-rum float to make it richer.
+Painkiller|tropical,sweet,pop|hurricane|shr|2 drum:Pusser's if they have it;4 pine;1 oj;1 cococream|Fresh-grated nutmeg & pineapple wedge|From the Soggy Dollar Bar in the British Virgin Islands. The nutmeg on top matters.
+Mai Tai (Trader Vic's)|tropical,tart,strong,pop|dbl|shr|2 arum:aged Jamaican, e.g. Appleton;.75 lime;.5 curacao;.5 orgeat|Spent lime shell & mint sprig|The 1944 original: no pineapple, no grenadine. Just rum, lime, orange and almond.
+Resort Mai Tai|tropical,fruity,sweet,pop|hurricane|shr|1.5 wrum;.5 cointreau;.5 orgeat;2 pine;1 oj;sp grenadine;f.75 drum|Pineapple wedge & cherry|The sunny pool-bar version with juices and a dark-rum float.
+Bahama Mama|tropical,fruity,sweet,pop|hurricane|shr|1 drum;1 crum;?.5 kahlua;2 pine;2 oj;.5 grenadine|Orange slice & cherry|Old-school versions add the splash of coffee liqueur; most ship bars skip it.
+Rum Runner|tropical,fruity,sweet,pop|hurricane|shr|1 wrum;1 banane;1 blackberry-liq;1 oj;1 pine;.5 lime;sp grenadine;f.5 drum|Orange wheel & cherry|Invented at Holiday Isle in the Florida Keys. Excellent frozen, too.
+Zombie|tropical,strong|tiki|shd|1.5 grum;1.5 jrum;1 oprum:151 Demerara;.75 lime;.5 falernum;.5 grapefruit;.25 cinn-syrup;b1 grenadine;d1 angostura;d1 absinthe|Mint sprig|Don the Beachcomber's 1934 monster. He limited guests to two.
+Hurricane|tropical,fruity,sweet,pop|hurricane|shr|1.5 wrum;1.5 drum;2 passion;1 oj;.5 lime;.5 simple;.25 grenadine|Orange slice & cherry|New Orleans' Pat O'Brien's classic, built on passion fruit.
+Planter's Punch|tropical,fruity,pop|collins|shr|2 drum:Myers's;1 oj;1 pine;.75 lime;.25 grenadine;.25 simple;d2 angostura|Orange slice & cherry|"One of sour, two of sweet, three of strong, four of weak."
+Jungle Bird|tropical,bitter,pop|dbl|shr|1.5 drum:blackstrap;.75 campari;1.5 pine;.5 lime;.5 demerara|Pineapple fronds|1978, Kuala Lumpur Hilton. Bittersweet and fruity at once.
+Navy Grog|tropical,strong,pop|dbl|shr|1 drum:Demerara;1 jrum;1 wrum;.75 lime;.75 grapefruit;1 honey;1 soda|Mint sprig|Don the Beachcomber's three-rum grog.
+Scorpion|tropical,fruity|tiki|shd|1.5 wrum;.5 brandy;1.5 oj;.75 lemon;.5 orgeat|Orange wheel|Trader Vic's brandy-spiked rum punch.
+Scorpion Bowl|tropical,fun|bowl|shd|2 wrum;1 brandy;1 gin;4 oj;1.5 lemon;1 orgeat;.5 grenadine|Orange wheels & long straws|Built for two. Bring a friend and two long straws.
+Blue Hawaiian|tropical,sweet,fun,pop|hurricane|shr|1.5 wrum;.75 bcur;2 pine;1 cococream|Pineapple wedge & cherry|Creamy, coconutty and electric blue. Great blended, too.
+Blue Hawaii|tropical,fruity,fun|hurricane|shr|.75 wrum;.75 vodka;.5 bcur;3 pine;1 sour|Pineapple wedge & orchid|Harry Yee's 1957 Waikiki original. No coconut.
+Goombay Smash|tropical,fruity|hurricane|shr|1 crum;1 grum;.5 apricot;3 pine;.5 lemon;f.5 drum|Pineapple wedge|The Bahamas' favorite, from Miss Emily's Blue Bee Bar on Green Turtle Cay.
+Coco Loco|tropical,fun|coconut|shd|1 wrum;1 teq;1 gin;1.5 cococream;2 coconut-water;.5 lime|Served in a fresh coconut|Beach-shack favorite from Acapulco to Cartagena.
+Lava Flow|tropical,sweet,fun,pop|hurricane|bl|1 wrum;1 crum;x1 banana;2 pine;2 cococream;2 straw-pur|Pineapple wedge|Blend everything except the strawberry purée. Pour the purée in first, then the colada, so it "erupts" up the glass.
+Miami Vice|tropical,fruity,fun,pop|hurricane|bl|2 wrum;1.5 cococream;1.5 pine;2 straw-pur;.5 lime;.5 simple|Pineapple wedge & strawberry|Half piña colada, half strawberry daiquiri. Blend each half separately and pour side by side.
+Frozen Daiquiri|tart,fresh,pop|hurricane|bl|2 wrum;1 lime;.75 simple|Lime wheel|The plain lime original, blended. Sharp and refreshing.
+Strawberry Daiquiri (Frozen)|fruity,sweet,pop|hurricane|bl|2 wrum;3 straw-pur;.75 lime;.5 simple|Strawberry|The pool-deck classic. Ask for fresh strawberries if the bar has them.
+Mango Daiquiri (Frozen)|fruity,tropical,sweet|hurricane|bl|2 wrum;3 mango;.75 lime;.5 simple|Mango slice|Ripe mango, rum and lime, blended smooth.
+Banana Daiquiri (Frozen)|fruity,sweet,pop|hurricane|bl|2 wrum;.5 banane;x1 banana;.75 lime;.5 simple|Banana slice|A grown-up banana smoothie.
+Peach Daiquiri (Frozen)|fruity,sweet|hurricane|bl|2 wrum;3 peach-pur;.75 lime;.5 simple|Peach slice|Summer peaches and rum.
+Passion Fruit Daiquiri (Frozen)|fruity,tart,tropical|hurricane|bl|2 wrum;2 passion;.75 lime;.75 simple|Lime wheel|Bright, tangy and tropical.
+Pineapple Daiquiri (Frozen)|fruity,tropical|hurricane|bl|2 wrum;x4 pinechunk;1 pine;.75 lime;.5 simple|Pineapple wedge|Fresh pineapple makes it.
+Watermelon Daiquiri (Frozen)|fruity,fresh|hurricane|bl|2 wrum;x5 melon;.75 lime;.5 simple|Watermelon wedge|Light, pink and very refreshing.
+Coconut Daiquiri|tropical,creamy|coupe|sh|2 wrum;1 cococream;.75 lime|Toasted coconut|A classic daiquiri with a creamy coconut accent.
+Banana Colada|tropical,creamy,sweet|hurricane|bl|1.5 wrum;.5 banane;x1 banana;2 cococream;2 pine|Banana slice|Piña colada plus a whole banana.
+Mango Colada|tropical,creamy,fruity|hurricane|bl|1.5 wrum;2 mango;2 cococream;2 pine|Mango or pineapple wedge|Piña colada with ripe mango.
+Strawberry Colada|tropical,creamy,fruity|hurricane|bl|1.5 wrum;2 straw-pur;2 cococream;2 pine|Strawberry|Strawberries and cream, island style.
+Skinny Colada|tropical,fresh|hurricane|bl|1.5 wrum;2 coconut-water;2 pine;.5 lime;?.25 agave|Pineapple wedge|Coconut water instead of cream of coconut: lighter and less sweet.
+Chi Chi|tropical,creamy,sweet,pop|hurricane|bl|1.5 vodka;2 cococream;3 pine|Pineapple wedge|A piña colada made with vodka.
+Coconut Mojito|tropical,minty,fresh|highball|mu|x8 mint;.75 lime;.5 simple;1 wrum;1 crum;top soda|Mint sprig & lime wheel|The mojito with a coconut twist.
+Pineapple Mojito|tropical,minty,fresh|highball|mu|x8 mint;x3 pinechunk;.75 lime;.5 simple;1.5 wrum;1 pine;top soda|Pineapple wedge & mint|Muddled pineapple makes it juicy.
+Passion Fruit Mojito|tropical,minty,tart|highball|mu|x8 mint;.75 lime;1 passion;.5 simple;1.5 wrum;top soda|Mint sprig|Tangy passion fruit meets mint.
+Mango Mojito|tropical,minty,fruity|highball|mu|x8 mint;.75 lime;1.5 mango;.25 simple;1.5 wrum;top soda|Mango slice & mint|Sweet mango, fresh mint.
+Rum Swizzle|tropical,fruity,pop|collins|sw|1.5 drum:Gosling's Black Seal;1.5 grum;2 oj;2 pine;.5 falernum;.25 grenadine;d2 angostura|Orange slice & cherry|Bermuda's national drink, made famous at the Swizzle Inn.
+Queen's Park Swizzle|minty,fresh|collins|sw|2 drum:Demerara;.75 lime;.75 demerara;x8 mint;d4 angostura|Mint sprig|Trinidad's 1920s classic. The bitters go on top of the crushed ice.
+Missionary's Downfall|minty,fresh,tropical|coupe|bl|1 wrum;.5 peach:or peach brandy;.5 honey;.5 lime;x4 pinechunk;x10 mint|Mint sprig|Don the Beachcomber's frozen mint-pineapple refresher.
+Fog Cutter|tropical,strong|tiki|shr|1.5 wrum;.75 brandy;.5 gin;1 oj;.75 lemon;.5 orgeat;f.5 sherry|Mint sprig|Trader Vic: "After two of these, you won't even see the stuff."
+Saturn|tropical,floral|dbl|shr|1.25 gin;.5 passion-syrup;.75 lemon;.25 falernum;.25 orgeat|Lemon peel & cherry|A rare gin tiki drink and a 1967 competition winner.
+Three Dots and a Dash|tropical,strong|tiki|shd|1.5 agricole;.5 drum:Demerara;.5 lime;.5 oj;.5 honey;.25 falernum;.25 allspice;d1 angostura|Three cherries & a pineapple chunk on a pick|Morse code for "V" (for victory), from the WWII era.
+Royal Hawaiian|tropical,floral|coupe|sh|1.5 gin;1 pine;.5 lemon;.5 orgeat|Pineapple leaf|The Royal Hawaiian Hotel's 1930s gin classic.
+Suffering Bastard|ginger,strong|highball|shr|1 gin;1 brandy;.5 lime;.5 simple;d2 angostura;top gbeer|Mint sprig & orange slice|Cairo, 1942: a hangover cure for British officers.
+Yellow Bird|tropical,fruity|coupe|sh|1.5 wrum;.5 galliano;.5 cointreau;.75 lime|Lime wheel|A sunny Caribbean classic with a vanilla-anise hint.
+Rum Punch (Bajan)|tropical,pop|rocks|bu|2 grum:Mount Gay;.75 lime;1 simple;2 water;d2 angostura|Grated nutmeg & lime wheel|Barbados rule: one of sour, two of sweet, three of strong, four of weak.
+Caribbean Rum Punch|tropical,fruity,sweet,pop|hurricane|shr|1 wrum;1 drum;2 pine;2 oj;.5 lime;.5 grenadine|Orange slice & cherry|The fruity resort version you'll find at every beach bar.
+Sky Juice|tropical,creamy|highball|shr|2 gin;3 coconut-water;.75 condensed|Grated nutmeg|A Bahamian fish-fry favorite: gin, coconut water and condensed milk.
+Batida de Coco|tropical,creamy,sweet|rocks|bl|2 cachaca;2 coconut-milk;1 condensed|Toasted coconut|Brazil's creamy coconut shake.
+Guavaberry Colada|tropical,creamy,fruity|hurricane|bl|1.5 guavaberry;1.5 cococream;3 pine|Pineapple wedge|St. Maarten's signature, made with local guavaberry liqueur.
+Aruba Ariba|tropical,fruity|hurricane|shr|1 vodka;.5 wrum;.5 banane;.5 grenadine:or Coecoei liqueur;2 oj;2 pine;f.5 gm|Orange slice & cherry|Aruba's signature punch. Locals use Coecoei liqueur.
+Shark Bite|fruity,fun|hurricane|shr|1.5 wrum;.75 bcur;2 pine;1 sour;.5 grenadine|Gummy shark|Pour the grenadine last, down the side, for a "shark attack."
+Bob Marley|fruity,fun,tropical|hurricane|bl|1.5 wrum;1.5 straw-pur;1.5 cococream;2 pine;.5 midori;.5 lime|Pineapple wedge|Jamaican-flag layers: strawberry, then colada, then melon. Blend each layer separately.
+Malibu Sunset|tropical,fruity,sweet|highball|bu|1.5 crum;2 pine;2 oj;.5 grenadine|Cherry|A sunrise-style coconut rum sipper.
+Doctor Funk|tropical,fresh|highball|shr|2 drum;.75 lime;.5 grenadine;.25 simple;d2 absinthe;top soda|Lime wheel|A Polynesian classic from Robert Louis Stevenson's Samoan doctor.
+Ancient Mariner|tropical,strong|dbl|shr|1 drum:Demerara;1 jrum;.75 lime;.5 grapefruit;.5 simple;.25 allspice|Lime wheel & mint|A modern tiki classic with a seafaring name.
+Nui Nui|tropical,spicy|dbl|shr|2 grum;.5 lime;.5 oj;.25 cinn-syrup;.25 vanilla;.25 allspice;d1 angostura|Orange spiral|Don the Beachcomber's spiced orange rum cooler.
+Cobra's Fang|tropical,strong|tiki|shd|1.5 oprum:151 Demerara;.5 lime;.5 oj;.5 falernum;.25 passion-syrup;d1 absinthe;d1 angostura|Lime wheel & mint|Another Don the Beachcomber original. It bites.
+Tradewinds|tropical,creamy|hurricane|bl|2 grum;.5 apricot;.5 lemon;1 cococream|Pineapple wedge|Apricot and coconut. Smooth and easy.
+Hotel Nacional Special|fruity,tropical|coupe|sh|1.5 wrum;1 pine;.5 apricot;.5 lime|Lime wheel|The signature of Havana's Hotel Nacional.

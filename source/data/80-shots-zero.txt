@@ -1,0 +1,84 @@
+@cat shot
+Lemon Drop Shot|sweet,tart,fun,pop|shot|sht|rim sugar;1 citron;.25 cointreau;.5 lemon|Sugared lemon wedge|Bite the sugared lemon right after.
+Kamikaze|tart,fun,pop|shot|sht|1 vodka;.5 cointreau;.5 lime|No garnish|Vodka, orange liqueur and lime.
+B-52|dessert,coffee,fun,pop|shot|ly|.5 kahlua;.5 baileys;.5 gm|No garnish|Layered: coffee liqueur, Irish cream, then Grand Marnier.
+Baby Guinness|coffee,fun,pop|shot|ly|1 kahlua;.25 baileys|No garnish|Looks exactly like a tiny pint of stout.
+Buttery Nipple|dessert,sweet,fun,pop|shot|ly|.75 butter;.5 baileys|No garnish|Butterscotch and Irish cream.
+Mini Beer|sweet,fun|shot|ly|1 licor43;.25 cream|No garnish|Licor 43 with a cream "head." Looks like a tiny beer.
+Jäger Bomb|herbal,fun,pop|pint|bn|1.5 jager;4 redbull|No garnish|Drop the shot into half a can of energy drink.
+Pineapple Upside-Down Shot|fruity,sweet,fun|shot|sht|.75 vanvod;.75 pine;sp grenadine|No garnish|The grenadine sinks to the bottom, like the cake.
+Chocolate Cake Shot|dessert,fun|shot|sht|.75 citron;.75 frangelico|Sugared lemon wedge|Tastes like chocolate cake. Really. Bite the sugared lemon after.
+White Tea Shot|fruity,fun|shot|sht|.5 vodka;.5 peach;.5 sour;sp lemonlime|No garnish|Peach-sour shooter: the whiskey-free cousin of the Green Tea shot.
+Mexican Candy Shot|fruity,spicy,fun|shot|sht|rim tajin;1 teq;.5 watermelon;d1 hotsauce|No garnish|Sweet, spicy and Tajín-rimmed, like Mexican watermelon candy.
+Tequila Shot|fun,pop|shot|po|1.5 teq;?rim salt|Lime wedge|Salt, shoot, lime. Or sip a good blanco slowly.
+Tequila & Sangrita|spicy,fresh|shot|po|1.5 teq;1 oj;.5 lime;.25 grenadine;d2 hotsauce|No garnish|Sip the tequila alternately with a spicy citrus chaser.
+Scooby Snack|tropical,creamy,fun|shot|sht|.5 crum;.5 midori;.5 pine;.25 cream|No garnish|Green, creamy and tropical.
+Surfer on Acid|tropical,herbal,fun|shot|sht|.5 jager;.5 crum;.5 pine|No garnish|Jäger, coconut rum and pineapple. Better than it sounds.
+Melon Ball|fruity,sweet,fun,pop|shot|sht|.5 vodka;.5 midori;.5 pine|No garnish|Melon, vodka and pineapple.
+Purple Hooter|berry,fun|shot|sht|.75 vodka;.5 chambord;.5 lime;sp lemonlime|No garnish|Raspberry kamikaze.
+Alien Brain Hemorrhage|fun|shot|ly|.75 peach;.25 baileys;sp grenadine;?d1 bcur|No garnish|A party trick: the Irish cream curdles into "brains."
+Mind Eraser|coffee,fun,pop|rocks|ly|1 kahlua;1 vodka;top soda|No garnish|Layered over ice. Drink it fast through a straw.
+Irish Flag|fun|shot|ly|.5 menthe;.5 baileys;.5 gm|No garnish|Green, white and orange layers.
+Pink Starburst|sweet,fruity,fun|shot|sht|.75 vanvod;.5 watermelon;.5 pine|No garnish|Tastes like the candy.
+Cinnamon Toast Shot|dessert,sweet,fun|shot|sht|rim cinnsugar;1 rumchata;.5 vanvod|No garnish|The cereal-milk shot, made without cinnamon whisky.
+Rattlesnake|dessert,coffee,fun|shot|ly|.5 kahlua;.5 cacao;.5 baileys|No garnish|Coffee, chocolate and cream in layers.
+Jolly Rancher|sweet,fruity,fun|shot|sht|.75 vodka;.5 sourapple;.5 cran|No garnish|Sour-apple candy in a glass.
+Apple Pie Shot|dessert,sweet|shot|sht|rim cinnsugar;.75 vanvod;.5 apple;.25 cinn-syrup|No garnish|Apple pie with a cinnamon-sugar rim.
+Birthday Cake Shot|dessert,fun|shot|sht|rim sprinkles;.75 vanvod;.5 frangelico;sp cream|No garnish|Make a wish.
+Limoncello|citrus,sweet,pop|shot|po|1.5 limoncello:ice-cold|No garnish|After dinner on the Amalfi Coast, poured straight from the freezer.
+Ginjinha|berry,sweet|shot|po|1.5 ginjinha|With a cherry ("com elas")|Lisbon's sour-cherry liqueur, sometimes served in an edible chocolate cup.
+Sambuca con la Mosca|anise|shot|po|1 sambuca|Three coffee beans|"With the flies": three beans for health, happiness and prosperity.
+Mastiha on Ice|herbal,fresh|rocks|bu|2 mastiha|No garnish|Chios's piney liqueur, served ice-cold.
+Xtabentún|anise,sweet|rocks|bu|1.5 xtabentun|No garnish|The Yucatán's Mayan anise-and-honey liqueur. Try it after a Cozumel day.
+Grappa|strong,pop|snifter|po|1 grappa|No garnish|Italy's pomace brandy, after dinner.
+Amaro Digestivo|bitter,herbal,pop|rocks|po|1.5 amaro|Orange peel|After a big dinner, ask for Montenegro (lighter) or Averna (richer).
+Fernet Shot|bitter,herbal|shot|po|1 fernet|No garnish|The bartender's handshake.
+Mezcal Neat|smoky,strong,pop|rocks|po|1.5 mezcal|Orange slices & chili salt|Sip slowly, between bites of orange.
+Añejo Tequila Neat|strong,pop|snifter|po|1.5 teqa|No garnish|Sip it like a cognac.
+Cognac Neat|strong,elegant,pop|snifter|po|1.5 cognac|No garnish|Warm the snifter in your hand.
+@cat zero
+Virgin Piña Colada|tropical,creamy,sweet,pop|hurricane|bl|2 cococream;4 pine;?.5 lime|Pineapple wedge & cherry|All the vacation, none of the rum.
+Virgin Strawberry Daiquiri|fruity,sweet,pop|hurricane|bl|3 straw-pur;1 lime;.75 simple|Strawberry|Frosty, pink and sweet.
+Virgin Lava Flow|tropical,fruity,creamy|hurricane|bl|2 straw-pur;x1 banana;2 cococream;3 pine|Pineapple wedge|Strawberry "lava" swirled into a virgin colada.
+Virgin Miami Vice|tropical,fun|hurricane|bl|2 straw-pur;1.5 cococream;2 pine;.75 lime;.5 simple|Pineapple & strawberry|Half virgin colada, half virgin strawberry daiquiri.
+Coconut No-Garita|tropical,creamy|rocks|shr|rim toastedcoco;1.5 cococream;1 lime;1 coconut-water;.5 oj|Lime wheel|Your favorite margarita, zero-proof.
+Virgin Margarita|tart,citrus,pop|rocks|shr|rim salt;1.5 lime;.75 agave;1 oj;2 soda|Lime wheel|All the tang, no tequila.
+Virgin Mango Margarita|fruity,tropical|marg|bl|?rim tajin;3 mango;1 lime;.5 agave;1 oj|Mango slice|Frozen mango with lime. Add a Tajín rim.
+Nojito|minty,fresh,pop|highball|mu|x10 mint;1 lime;.75 simple;top soda|Mint sprig & lime wheel|The virgin mojito.
+Strawberry Nojito|minty,fruity|highball|mu|x8 mint;x3 straw;1 lime;.5 simple;top soda|Strawberry & mint|Berry-mint refresher.
+Shirley Temple|sweet,fun,pop|highball|bu|6 gale;.5 grenadine|Maraschino cherries|Ginger ale and grenadine. Add vodka and it's a Dirty Shirley.
+Roy Rogers|sweet,pop|highball|bu|6 cola;.5 grenadine|Maraschino cherry|Cola and grenadine.
+Arnold Palmer|fresh,citrus,pop|highball|bu|4 tea;4 lemonade|Lemon wheel|Half iced tea, half lemonade.
+Virgin Mary|savory,spicy,brunch,pop|highball|bu|5 tomato;.5 lemon;d3 worcestershire;d2 hotsauce;pinch celerysalt;pinch pepper|Celery & lemon|Brunch without the vodka.
+Cinderella|fruity,sweet|hurricane|shr|2 oj;2 pine;.5 lemon;.25 grenadine;top soda|Orange slice & cherry|The classic mocktail.
+Pineapple Ginger Fizz|tropical,ginger|highball|bu|3 pine;.5 lime;top gbeer|Pineapple wedge|Sweet, spicy and bubbly.
+Virgin Mule|ginger,fresh|copper|bu|.75 lime;?x4 mint;6 gbeer|Lime wedge & mint|A Moscow Mule without the vodka.
+Cucumber Cooler|fresh|highball|mu|x4 cucumber;x6 mint;.75 lime;.5 simple;top soda|Cucumber ribbon|Spa water, upgraded.
+Virgin Sunrise|fruity,sweet|highball|bu|5 oj;.5 grenadine|Orange slice & cherry|Tequila Sunrise colors, zero proof.
+Virgin Bahama Mama|tropical,fruity|hurricane|shr|2 pine;2 oj;1 cococream;.5 grenadine;.25 lime|Orange slice & cherry|Fruity and coconutty.
+Virgin Painkiller|tropical,creamy|hurricane|shr|4 pine;1 oj;1.5 cococream|Grated nutmeg|Painkiller, minus the rum.
+Blue Lagoon Mocktail|fun,citrus|highball|bu|.75 bcursyrup;4 lemonade;top lemonlime|Lemon wheel|Electric-blue lemonade made with non-alcoholic blue syrup.
+Virgin Hugo|floral,fresh,minty|wine|mu|x6 mint;.75 elderflower-cordial;.5 lime;5 soda:or alcohol-free sparkling wine|Mint & lime wheel|Elderflower, mint and bubbles.
+Crodino Spritz|bitter,fresh|wine|bu|3.5 crodino;2 soda;?sp oj|Orange slice|Italy's zero-proof aperitivo. Ask for it in European ports.
+Strawberry Lemonade|fruity,sweet,pop|highball|bu|1.5 straw-pur;5 lemonade|Strawberry|Sweet and pink.
+Limonana|minty,citrus,fresh|highball|bl|x10 mint;1.5 lemon;1 simple;4 water|Mint sprig|Frozen mint lemonade, Middle Eastern style.
+Lavender Lemonade|floral,citrus|highball|bu|.75 lavender;5 lemonade|Lavender sprig or lemon|Floral and tart.
+Raspberry Lime Rickey|tart,fresh,berry|highball|bu|1 lime;.75 rasp-syrup;top soda|Lime wedge|A Boston soda-fountain classic.
+Italian Cream Soda|sweet,creamy|highball|bu|1 rasp-syrup;6 soda;1 cream|Whipped cream & cherry|Fizzy, creamy and pink.
+Egg Cream|dessert,creamy|highball|bu|1 chocsyrup;3 milk;4 soda|No garnish|No eggs, no cream: New York's chocolate soda.
+Virgin Mudslide|dessert,creamy|hurricane|bl|sc3 icecream;1 chocsyrup;2 milk;?1 coldbrew|Chocolate drizzle|A chocolate shake with optional cold brew.
+Strawberry Banana Smoothie|fruity,creamy|hurricane|bl|x4 straw;x1 banana;2 oj;2 milk|Strawberry|Breakfast at sea.
+Mango Smoothie|tropical,creamy|hurricane|bl|3 mango;2 milk;.5 honey|Mango slice|Thick, sweet and tropical, like a lassi.
+Tropical Smoothie|tropical,fruity|hurricane|bl|2 mango;2 pine;x1 banana;2 oj|Pineapple wedge|Sunshine in a glass.
+Coconut Water Cooler|fresh,tropical|highball|bu|6 coconut-water;.5 lime|Lime wheel|Hydration hero after a beach day.
+Watermelon Agua Fresca|fresh,fruity|highball|bl|5 watermelon-j;.5 lime;.25 agave;2 water|Mint|Mexico's fresh-fruit water.
+Agua de Jamaica|floral,tart|highball|bu|1 hibiscus;.5 lime;5 water|Lime wheel|Hibiscus agua fresca: tart and ruby-red.
+Passion Fruit Spritz|tropical,tart|wine|bu|1.5 passion;.5 lime;.5 simple;4 soda|Mint sprig|Tart, fruity and bubbly.
+Virgin Paloma|citrus,fresh|highball|bu|?rim salt;2 grapefruit;.5 lime;.25 agave;top gfsoda|Grapefruit wedge|Grapefruit and lime with a salted rim.
+Cranberry Spritzer|fruity|highball|bu|3 cran;.5 lime;top soda|Lime wedge|Tart and light.
+Safe Sex on the Beach|fruity,sweet|highball|bu|3 cran;3 oj;.5 peach-pur|Orange slice|The virgin version of the beach classic.
+Cosmo-Not|tart,fruity|martini|sh|2 cran;.5 lime;1 oj;1 soda|Lime twist|A zero-proof cosmopolitan.
+Peach Iced Tea|fruity,fresh|highball|bu|6 tea;1.5 peach-pur;.25 lemon|Peach slice|Southern-style and refreshing.
+Iced Tea|fresh,pop|highball|bu|8 tea;?.5 simple|Lemon wedge|Sweet or unsweetened.
+Frozen Lemonade|citrus,fresh,sweet|hurricane|bl|6 lemonade;?.5 simple|Lemon wheel|A lemon slush.
+Lemon-Lime Bitters|fresh,bitter|highball|bu|d5 angostura;.5 lime;top lemonlime|Lime wedge|Australia's pub "mocktail." Bitters add a trace of alcohol.

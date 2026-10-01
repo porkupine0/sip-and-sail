@@ -1,0 +1,224 @@
+# key|name (singular/plural for counted items)|group|filter family|abv %|color|pigment|unit oz (counted items)|flags
+# ---------- Spirits ----------
+vodka|Vodka|spirit|Vodka|40|f2f6f7|0||
+citron|Citrus vodka|spirit|Vodka|40|f2f6ee|0||citrus
+vanvod|Vanilla vodka|spirit|Vodka|35|f5f1e6|0||
+rasvod|Raspberry vodka|spirit|Vodka|35|f5edf0|0||berry
+orvod|Orange vodka|spirit|Vodka|35|f6f0e4|0||
+whipvod|Whipped-cream vodka|spirit|Vodka|30|f6f2ea|0||
+gin|Gin|spirit|Gin|42|f2f6f7|0||juniper
+oldtom|Old Tom gin|spirit|Gin|42|f4f1e6|0||juniper
+wrum|White rum|spirit|Rum|40|f2f6f7|0||
+grum|Gold rum|spirit|Rum|40|e3a94f|0.4||
+arum|Aged rum|spirit|Rum|40|b8722f|0.8||
+drum|Dark rum|spirit|Rum|40|6e3512|1.3||
+jrum|Jamaican rum|spirit|Rum|43|c3843a|0.6||
+srum|Spiced rum|spirit|Rum|35|b8722f|0.8||
+oprum|Overproof rum|spirit|Rum|63|efe4c8|0.1||
+agricole|Rhum agricole|spirit|Rum|50|f3f1e4|0||
+cachaca|Cachaça|spirit|Cachaça|40|f3f4ec|0||
+teq|Tequila blanco|spirit|Tequila|40|f2f6f5|0||
+teqr|Tequila reposado|spirit|Tequila|40|e6bd72|0.35||
+teqa|Tequila añejo|spirit|Tequila|40|cd9344|0.6||
+mezcal|Mezcal|spirit|Mezcal|42|f1f1e8|0||smoky
+brandy|Brandy|spirit|Brandy & cognac|40|b0601f|0.9||
+cognac|Cognac|spirit|Brandy & cognac|40|b0601f|0.9||
+applebrandy|Apple brandy (Calvados)|spirit|Brandy & cognac|40|c3843a|0.6||
+pisco|Pisco|spirit|Pisco|40|f2f5f0|0||
+guaro|Guaro (Costa Rican cane spirit)|spirit|Guaro|30|f2f6f7|0||
+absinthe|Absinthe|spirit|Absinthe & anise|60|a8c878|0.6||anise herbal
+ouzo|Ouzo|spirit|Absinthe & anise|40|f2f6f7|0||anise
+pastis|Pastis|spirit|Absinthe & anise|45|e6d58a|0.3||anise
+aguardiente|Aguardiente|spirit|Absinthe & anise|29|f2f6f7|0||anise
+grappa|Grappa|spirit|Grappa|40|f2f4ef|0||
+# ---------- Liqueurs & aperitifs ----------
+cointreau|Orange liqueur (Cointreau or triple sec)|liqueur|Orange liqueur|40|f4f1e6|0||
+gm|Grand Marnier|liqueur|Orange liqueur|40|d68a29|0.7||
+curacao|Orange curaçao|liqueur|Orange liqueur|40|d68a29|0.6||
+bcur|Blue curaçao|liqueur|Blue curaçao|25|1677d2|3||
+amaretto|Amaretto|liqueur|Amaretto|28|b0601f|1||nut
+kahlua|Coffee liqueur (Kahlúa)|liqueur|Coffee liqueur|20|26130a|3.2||coffee caffeine
+baileys|Irish cream (Baileys)|liqueur|Irish cream|17|d6bb96|2||creamy dairy
+frangelico|Hazelnut liqueur (Frangelico)|liqueur|Hazelnut liqueur|20|c4883a|0.8||nut
+cacao|White crème de cacao|liqueur|Chocolate liqueur|25|f4f1e6|0||choc
+dcacao|Dark crème de cacao|liqueur|Chocolate liqueur|25|45210e|2.2||choc
+godiva|Chocolate liqueur (Godiva)|liqueur|Chocolate liqueur|15|66361f|2.6||choc creamy dairy
+menthe|Green crème de menthe|liqueur|Crème de menthe|25|17a046|3||minty
+wmenthe|White crème de menthe|liqueur|Crème de menthe|25|f2f6f7|0||minty
+pschnapps|Peppermint schnapps|liqueur|Peppermint schnapps|30|f2f6f7|0||minty
+peach|Peach schnapps|liqueur|Peach schnapps|20|f6ecdc|0.15||
+butter|Butterscotch schnapps|liqueur|Butterscotch schnapps|20|dc9f3f|0.8||
+midori|Melon liqueur (Midori)|liqueur|Melon liqueur|20|55cc33|3||
+chambord|Raspberry liqueur (Chambord)|liqueur|Raspberry liqueur|16.5|6a0c28|3.2||berry
+cassis|Crème de cassis|liqueur|Crème de cassis|16|470a2a|3.2||berry
+blackberry-liq|Blackberry liqueur|liqueur|Blackberry liqueur|20|5a1236|2.4||berry
+banane|Banana liqueur|liqueur|Banana liqueur|20|f2df98|0.5||tropical
+apricot|Apricot liqueur|liqueur|Apricot liqueur|24|dc9536|0.8||
+maraschino|Maraschino liqueur|liqueur|Maraschino|32|f2f6f7|0||
+heering|Cherry liqueur (Heering)|liqueur|Cherry liqueur|24|6a0c1d|3.2||
+stg|Elderflower liqueur (St-Germain)|liqueur|Elderflower|20|f2ebc0|0.2||floral
+aperol|Aperol|liqueur|Aperol|11|f2651a|3||bitter
+campari|Campari|liqueur|Campari|25|c50e2d|3.6||bitter
+suze|Suze (gentian aperitif)|liqueur|Suze|20|f1dc55|0.8||bitter
+limoncello|Limoncello|liqueur|Limoncello|30|f2e266|1.5||citrus
+galliano|Galliano|liqueur|Galliano|30|f1d235|1.5||herbal
+chartg|Green Chartreuse|liqueur|Chartreuse|55|7bbd3b|1.5||herbal
+charty|Yellow Chartreuse|liqueur|Chartreuse|40|e6cf45|1||herbal
+benedictine|Bénédictine|liqueur|Bénédictine|40|c4883a|0.8||herbal
+jager|Jägermeister|liqueur|Jägermeister|35|361a0e|3||herbal
+fernet|Fernet-Branca|liqueur|Amaro|39|28180f|3||bitter herbal
+amaro|Amaro (Montenegro or Averna)|liqueur|Amaro|25|873718|2||bitter herbal
+licor43|Licor 43|liqueur|Licor 43|31|e6b036|1||
+rumchata|RumChata|liqueur|RumChata|13.75|eee1cc|1.6||creamy dairy
+sourapple|Sour apple schnapps|liqueur|Apple schnapps|15|79d653|3||
+watermelon|Watermelon schnapps|liqueur|Watermelon schnapps|15|f25a76|2||
+falernum|Falernum|liqueur|Falernum|11|f1ead2|0.2||
+allspice|Allspice dram|liqueur|Allspice dram|22|662b15|2||spicy
+ginger-liq|Ginger liqueur|liqueur|Ginger liqueur|20|e6c266|0.5||ginger
+violette|Crème de violette|liqueur|Crème de violette|16|684ca0|3||floral
+crum|Coconut rum (Malibu)|liqueur|Coconut rum|21|f5f3ec|0||coconut tropical
+trose|Strawberry cream liqueur (Tequila Rose)|liqueur|Strawberry cream liqueur|15|f3a0b6|2||creamy dairy berry
+sloe|Sloe gin|liqueur|Sloe gin|26|a01036|2.6||berry
+guavaberry|Guavaberry liqueur|liqueur|Guavaberry|30|681a28|2.2||tropical
+passoa|Passion fruit liqueur (Passoã)|liqueur|Passion fruit liqueur|17|e6402b|2||tropical
+lychee-liq|Lychee liqueur|liqueur|Lychee liqueur|20|f5efef|0.1||floral tropical
+sambuca|Sambuca|liqueur|Absinthe & anise|38|f2f6f7|0||anise
+xtabentun|Xtabentún (anise-honey liqueur)|liqueur|Absinthe & anise|30|f0de96|0.5||anise
+pimms|Pimm's No. 1|liqueur|Pimm's|25|772b12|2||
+mastiha|Mastiha liqueur|liqueur|Mastiha|30|f2f6f7|0||herbal
+ginjinha|Ginjinha (sour-cherry liqueur)|liqueur|Ginjinha|20|680b1b|3.2||berry
+hpnotiq|Hpnotiq|liqueur|Hpnotiq|17|57cfe6|2.4||tropical
+# ---------- Wine, bubbly & fortified ----------
+champ|Champagne or sparkling wine|wine|Sparkling wine|12|f5eabb|0.3||bubbly
+prosecco|Prosecco|wine|Sparkling wine|11|f5ecc4|0.3||bubbly
+wwine|White wine|wine|White wine|12|f2e7b0|0.4||
+rwine|Red wine|wine|Red wine|13|6b0d20|3.2||
+rosewine|Rosé wine|wine|Rosé wine|12|f3a49c|1||
+vermd|Dry vermouth|wine|Vermouth|18|f1eed4|0.1||
+verms|Sweet vermouth|wine|Vermouth|16|772210|2.2||
+blanc|Blanc vermouth|wine|Vermouth|16|f1e6c0|0.3||
+lillet|Lillet Blanc|wine|Lillet|17|efd686|0.5||floral
+sherry|Dry sherry (fino)|wine|Sherry|15|f1e4b4|0.3||
+port|Port wine|wine|Port|20|570e21|3.2||
+whiteport|White port|wine|Port|19|efe0ac|0.4||
+# ---------- Beer & cider ----------
+lager|Mexican lager (Corona or Modelo)|beer|Beer|4.5|e6b23a|0.8||bubbly
+beer|Light lager|beer|Beer|4.5|e6b23a|0.8||bubbly
+wheat|Wheat beer (Blue Moon)|beer|Beer|5.4|e6ad47|1||bubbly
+stout|Stout (Guinness)|beer|Beer|4.2|170d08|4.5||
+cider|Hard cider|beer|Cider|5|e8c266|0.7||bubbly
+# ---------- Juices & purées ----------
+lime|Fresh lime juice|juice|Lime|0|dfe9a4|0.3||citrus
+lemon|Fresh lemon juice|juice|Lemon|0|f3eda6|0.3||citrus
+oj|Orange juice|juice|Orange juice|0|f69f18|1.2||citrus
+pine|Pineapple juice|juice|Pineapple|0|f4d045|1||tropical
+cran|Cranberry juice|juice|Cranberry|0|c21a3a|1.4||berry
+wcran|White cranberry juice|juice|Cranberry|0|f1e9df|0.2||berry
+grapefruit|Grapefruit juice|juice|Grapefruit|0|f5ae96|0.7||citrus
+apple|Apple juice|juice|Apple|0|e5bc58|0.7||
+mango|Mango purée|juice|Mango|0|ffab1c|1.6||tropical
+passion|Passion fruit purée|juice|Passion fruit|0|f19e05|1.5||tropical
+guava|Guava nectar|juice|Guava|0|f18a8a|1.4||tropical
+peach-pur|Peach purée|juice|Peach|0|f6af63|1.3||
+straw-pur|Strawberry purée|juice|Strawberry|0|e2243a|2||berry
+watermelon-j|Watermelon juice|juice|Watermelon|0|f25a76|1.2||
+lychee|Lychee juice|juice|Lychee|0|f5eeea|0.2||floral tropical
+tomato|Tomato juice|juice|Tomato|0|c0262b|2.2||savory
+clamato|Clamato|juice|Tomato|0|c3452d|2||savory
+coconut-water|Coconut water|juice|Coconut water|0|f0ede2|0.1||coconut
+pomegranate|Pomegranate juice|juice|Pomegranate|0|8c1a38|2.2||
+# ---------- Sodas & mixers ----------
+soda|Club soda|mixer|Soda water|0|f2f6f7|0||bubbly
+tonic|Tonic water|mixer|Tonic|0|f2f6f7|0||bubbly bitter
+gbeer|Ginger beer|mixer|Ginger beer|0|e9d69e|0.35||bubbly ginger
+gale|Ginger ale|mixer|Ginger ale|0|e3c585|0.4||bubbly ginger
+cola|Cola|mixer|Cola|0|391e11|2.8||bubbly caffeine
+lemonlime|Lemon-lime soda (Sprite)|mixer|Lemon-lime soda|0|f2f6ee|0||bubbly
+gfsoda|Grapefruit soda (Squirt or Jarritos)|mixer|Grapefruit soda|0|f2e0ba|0.3||bubbly citrus
+orangesoda|Orange soda|mixer|Orange soda|0|f6911b|1.5||bubbly
+redbull|Energy drink (Red Bull)|mixer|Energy drink|0|f1d167|0.6||bubbly caffeine
+lemonade|Lemonade|mixer|Lemonade|0|f5ec9a|0.5||citrus
+pinklemonade|Pink lemonade|mixer|Lemonade|0|f5a3be|0.8||
+sour|Sweet & sour mix|mixer|Sour mix|0|e6e498|0.5||citrus
+crodino|Crodino (non-alcoholic bitter aperitif)|mixer|Crodino|0|f39a12|2.2||bitter
+water|Water|mixer|Water|0|f2f6f7|0||
+# ---------- Syrups & sweeteners ----------
+simple|Simple syrup|syrup|Simple syrup|0|f2f6f7|0||
+demerara|Demerara syrup|syrup|Simple syrup|0|b17636|0.6||
+sugar|Sugar|syrup|Sugar|0|ffffff|0|0.15|
+grenadine|Grenadine|syrup|Grenadine|0|c8142e|2.6||
+cococream|Cream of coconut (Coco López)|syrup|Cream of coconut|0|f8f4ea|1.6||coconut creamy tropical
+orgeat|Orgeat (almond syrup)|syrup|Orgeat|0|eee4ce|0.6||nut
+honey|Honey syrup|syrup|Honey|0|dea55a|0.6||
+agave|Agave nectar|syrup|Agave nectar|0|e9c466|0.3||
+vanilla|Vanilla syrup|syrup|Vanilla syrup|0|eedfac|0.3||
+cinn-syrup|Cinnamon syrup|syrup|Cinnamon|0|b0601f|0.6||spicy
+passion-syrup|Passion fruit syrup|syrup|Passion fruit|0|f19e05|1.2||tropical
+rasp-syrup|Raspberry syrup|syrup|Raspberry|0|c0175a|2.6||berry
+ginger-syrup|Ginger syrup|syrup|Ginger|0|e1bd6a|0.4||ginger spicy
+hibiscus|Hibiscus syrup|syrup|Hibiscus|0|ad0039|2.6||floral
+lavender|Lavender syrup|syrup|Lavender|0|b79fd8|1||floral
+elderflower-cordial|Elderflower syrup|syrup|Elderflower|0|f2ebc0|0.2||floral
+bcursyrup|Blue curaçao syrup (non-alcoholic)|syrup|Blue curaçao|0|1677d2|3||
+caramel|Caramel sauce|syrup|Caramel|0|9c4f2a|2.2||
+chocsyrup|Chocolate syrup|syrup|Chocolate|0|3b1f14|3.6||choc
+marmalade|Orange marmalade|syrup|Marmalade|0|f0961a|1||citrus
+maple|Maple syrup|syrup|Maple syrup|0|b0601f|1||
+lime-cordial|Lime cordial (Rose's)|syrup|Lime|0|cde198|0.6||citrus
+# ---------- Cream, milk & ice cream ----------
+cream|Heavy cream|dairy|Milk & cream|0|fbf7ee|1.6||creamy dairy
+milk|Milk|dairy|Milk & cream|0|fbf8f1|1.3||creamy dairy
+coconut-milk|Coconut milk|dairy|Coconut milk|0|f6f2e8|1.3||coconut creamy
+condensed|Sweetened condensed milk|dairy|Milk & cream|0|f2e8d4|1.4||creamy dairy
+icecream|Vanilla ice cream|dairy|Ice cream|0|fdf5e0|1.6||creamy dairy
+sorbet|Lemon sorbet|dairy|Sorbet|0|f5efae|1.2||citrus
+whipped|Whipped cream|dairy|Whipped cream|0|ffffff|0||creamy dairy
+eggwhite|Egg white|dairy|Egg white|0|f6f3e8|0.2||egg
+butterpat|Butter (pat)/Butter (pats)|dairy|Butter|0|f4e29c|0|0.3|dairy
+# ---------- Fresh fruit & herbs ----------
+mint|Mint leaf/Mint leaves|fresh|Mint|0|4caf50|0|0|minty
+basil|Basil leaf/Basil leaves|fresh|Basil|0|3e8e41|0|0|herbal
+rosemary|Rosemary sprig/Rosemary sprigs|fresh|Rosemary|0|4b7f52|0|0|herbal
+cucumber|Cucumber slice/Cucumber slices|fresh|Cucumber|0|9ccc65|0|0.1|fresh
+jalapeno|Jalapeño slice/Jalapeño slices|fresh|Jalapeño|0|4caf50|0|0|spicy
+limewedge|Lime wedge/Lime wedges|fresh|Lime|0|9ccc65|0|0.15|citrus
+lemonwedge|Lemon wedge/Lemon wedges|fresh|Lemon|0|f3e04d|0|0.15|citrus
+orangeslice|Orange slice/Orange slices|fresh|Orange|0|f6911b|0.6|0.3|citrus
+cherry|Maraschino cherry/Maraschino cherries|fresh|Cherry|0|b3001b|0|0|
+straw|Strawberry/Strawberries|fresh|Strawberry|0|e2243a|2|0.5|berry
+raspberries|Raspberry/Raspberries|fresh|Raspberry|0|c0175a|2.4|0.12|berry
+blackberries|Blackberry/Blackberries|fresh|Blackberry|0|3b0a28|3|0.15|berry
+blueberries|Blueberry/Blueberries|fresh|Blueberry|0|3a3a8c|2.6|0.06|berry
+banana|Ripe banana/Ripe bananas|fresh|Banana|0|f2e09e|1.2|3|tropical
+pinechunk|Pineapple chunk/Pineapple chunks|fresh|Pineapple|0|f4d045|1|0.6|tropical
+melon|Watermelon cube/Watermelon cubes|fresh|Watermelon|0|f25a76|1.2|0.7|
+ginger|Fresh ginger slice/Fresh ginger slices|fresh|Ginger|0|e8d5a3|0|0|ginger spicy
+# ---------- Coffee, tea & cocoa ----------
+espresso|Espresso|coffee|Coffee & espresso|0|28180e|3.6||coffee caffeine
+coffee|Hot coffee|coffee|Coffee & espresso|0|38220f|3||coffee caffeine
+coldbrew|Cold brew coffee|coffee|Coffee & espresso|0|38220f|3||coffee caffeine
+instant|Instant coffee|coffee|Coffee & espresso|0|38220f|3|0.05|coffee caffeine
+tea|Iced black tea|coffee|Tea|0|9c4f1e|1.6||caffeine
+hottea|Hot tea|coffee|Tea|0|974719|1.6||caffeine
+chai|Chai concentrate|coffee|Tea|0|ad774c|1.6||spicy caffeine
+hotchoc|Hot chocolate|coffee|Hot chocolate|0|4b281c|3||choc
+# ---------- Bitters, rims & spices ----------
+angostura|Angostura bitters|accent|Bitters|44.7|6a1c1c|0||bitter
+orangebitters|Orange bitters|accent|Bitters|28|dc9536|0||
+peychauds|Peychaud's bitters|accent|Bitters|35|c01c38|0||
+ofw|Orange flower water|accent|Orange flower water|0|f2f6f7|0||floral
+olivebrine|Olive brine|accent|Olive brine|0|d6d3a2|0.4||savory
+worcestershire|Worcestershire sauce|accent|Worcestershire|0|391e11|0||savory
+hotsauce|Hot sauce|accent|Hot sauce|0|c0262b|0||spicy
+horseradish|Horseradish|accent|Horseradish|0|f1eedf|0||spicy savory
+salt|Salt|accent|Salt|0|ffffff|0||
+celerysalt|Celery salt|accent|Salt|0|ffffff|0||savory
+pepper|Black pepper|accent|Black pepper|0|333333|0||savory
+tajin|Tajín chili-lime seasoning|accent|Tajín|0|c0430e|0||spicy
+cayenne|Cayenne pepper|accent|Cayenne|0|c0262b|0||spicy
+toastedcoco|Toasted coconut flakes|accent|Toasted coconut|0|e6cfa2|0||coconut
+graham|Graham cracker crumbs|accent|Graham cracker|0|c3843a|0||
+cinnsugar|Cinnamon sugar|accent|Cinnamon|0|c3843a|0||
+cinnamon|Ground cinnamon|accent|Cinnamon|0|8a4413|0||
+cocoa|Cocoa powder|accent|Cocoa|0|4b281c|0||choc
+sprinkles|Rainbow sprinkles|accent|Sprinkles|0|ff69b4|0||

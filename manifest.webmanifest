@@ -1,0 +1,31 @@
+{
+  "name": "Sip & Sail",
+  "short_name": "Sip & Sail",
+  "description": "Offline cruise drink companion: 530 whiskey-free recipes, ingredient filters, a mood quiz, Surprise Me and bartender cards.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07131c",
+  "theme_color": "#0f2d44",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

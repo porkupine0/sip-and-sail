@@ -1,0 +1,66 @@
+@cat dessert
+Mudslide|creamy,coffee,pop|hurricane|bl|1 vodka;1 kahlua;1 baileys;sc2 icecream;?.5 chocsyrup|Chocolate-syrup swirl|Born at the Wreck Bar on Grand Cayman. Ships blend it with ice cream.
+Mudslide (On the Rocks)|creamy,coffee|rocks|shr|1 vodka;1 kahlua;1 baileys;1 cream|No garnish|The original Cayman version, unblended.
+White Russian|creamy,coffee,pop|rocks|bu|2 vodka;1 kahlua;1 cream|No garnish|The Dude abides.
+Black Russian|coffee,strong,pop|rocks|bu|2 vodka;1 kahlua|No garnish|A White Russian without the cream.
+Colorado Bulldog|creamy,coffee,fun|highball|bu|1.5 vodka;1 kahlua;2 cream;top cola|No garnish|A White Russian with a splash of cola. Trust us.
+Grasshopper|dessert,minty,creamy,pop|coupe|sh|1 menthe;1 cacao;1 cream|Mint leaf or chocolate shavings|Mint-chocolate-chip ice cream in a glass.
+Frozen Grasshopper|dessert,minty,pop|hurricane|bl|1 menthe;1 cacao;sc2 icecream|Mint leaf|Supper-club style, blended with ice cream.
+Brandy Alexander|dessert,creamy,elegant,pop|coupe|sh|1.5 cognac;1 dcacao;1 cream|Fresh-grated nutmeg|A silky after-dinner classic.
+Golden Cadillac|dessert,creamy|coupe|sh|1 galliano;1 cacao;1 cream|No garnish|Vanilla, anise and chocolate, from 1952 California.
+Golden Dream|creamy,citrus|coupe|sh|1 galliano;.5 cointreau;.5 oj;.5 cream|Orange twist|A 1960s creamsicle in a coupe.
+Toasted Almond|dessert,nutty,coffee,pop|rocks|shr|1 amaretto;1 kahlua;1.5 cream|No garnish|Tastes like a toasted almond bar. Add vodka for a "Roasted Toasted Almond."
+Nutty Irishman|dessert,nutty,creamy,pop|rocks|bu|1 baileys;1 frangelico;?1 cream|No garnish|Hazelnut and Irish cream.
+Bushwacker|dessert,tropical,pop|hurricane|bl|1 drum;1 kahlua;1 dcacao;2 cococream;2 cream;?f.5 drum|Grated nutmeg or chocolate drizzle|The 1975 St. Thomas original: a boozy chocolate-coconut milkshake.
+Dirty Banana|dessert,tropical,coffee|hurricane|bl|1 grum:Appleton;1 kahlua:Tia Maria;x1 banana;2 milk;.5 simple|Banana slice|Jamaica's favorite resort shake.
+Monkey La La|dessert,coffee,creamy|hurricane|bl|1 vodka;1 kahlua;1 baileys;1 cococream;.5 chocsyrup|Chocolate drizzle|From Roatán, Honduras: a coconut-chocolate mudslide.
+Kahlúa Colada|dessert,tropical,coffee|hurricane|bl|1 kahlua;1 wrum;2 cococream;2 pine|Pineapple wedge|Coffee meets colada.
+Chocolate Monkey|dessert,tropical|hurricane|bl|1 dcacao;1 banane;x1 banana;sc2 icecream;.5 chocsyrup|Banana slice|A chocolate-banana milkshake with a kick.
+Coquito|dessert,creamy,spicy|rocks|sh|1.5 wrum;1 cococream;1 coconut-milk;1 condensed;d1 cinnamon|Cinnamon|Puerto Rico's holiday coconut eggnog, served chilled.
+Baileys on the Rocks|creamy,sweet,pop|rocks|bu|2 baileys|No garnish|Simple and indulgent.
+Brandy Milk Punch|creamy,dessert|rocks|shr|2 brandy;2 milk;.5 simple;b1 vanilla|Grated nutmeg|A New Orleans brunch classic.
+Creamsicle|dessert,fruity,creamy|rocks|shr|1.5 vanvod;2 oj;1 cream;.5 cointreau|Orange slice|Orange push-pop nostalgia.
+Velvet Hammer|dessert,creamy|coupe|sh|1.5 vodka;1 cacao;1 cream|No garnish|Smooth, sweet and deceptively strong.
+Smith & Curran|creamy,coffee,fun|highball|bu|1.5 kahlua;1.5 cream;top soda|No garnish|A fizzy coffee cream soda.
+Strawberry Shake (Spiked)|dessert,berry,fun|hurricane|bl|1.5 trose;1 straw-pur;sc2 icecream|Strawberry|A boozy strawberry milkshake.
+Chocolate Shake (Spiked)|dessert,fun|hurricane|bl|1 godiva;1 vanvod;sc2 icecream;.5 chocsyrup|Whipped cream|A grown-up chocolate shake.
+Piña Colada Float|dessert,tropical|hurricane|bl|1.5 wrum;1 cococream;2 pine;sc1 icecream|Pineapple wedge|A colada with a scoop of vanilla ice cream blended in.
+@cat coffee
+Carajillo|coffee,pop|rocks|shr|1.5 licor43;1.5 espresso|Orange twist or coffee beans|Spain and Mexico's two-ingredient espresso cocktail, shaken over ice.
+Spanish Coffee|coffee,fun,pop|mug|hot|rim sugar;.75 oprum;.5 cointreau;1.5 kahlua;4 coffee;top whipped|Whipped cream & nutmeg|Portland's flaming showpiece. Ask whether the bar will flame it.
+Mexican Coffee|coffee,pop|mug|hot|1 teq;1 kahlua;4 coffee;top whipped|Cinnamon|Tequila and coffee liqueur in hot coffee.
+Jamaican Coffee|coffee|mug|hot|1 drum;1 kahlua:Tia Maria;4 coffee;top whipped|No garnish|Rum and Tia Maria in hot coffee.
+Keoke Coffee|coffee|mug|hot|1 brandy;1 kahlua;.5 dcacao;4 coffee;top whipped|No garnish|Brandy, coffee liqueur and chocolate.
+Baileys Coffee|coffee,creamy,pop|mug|hot|1.5 baileys;5 coffee;?top whipped|No garnish|The cozy sea-day-morning treat.
+Café Amaretto|coffee,nutty|mug|hot|1.5 amaretto;5 coffee;top whipped|No garnish|Almond-sweet and warming.
+Hazelnut Coffee|coffee,nutty,creamy|mug|hot|1 frangelico;1 baileys;4 coffee;?top whipped|No garnish|Frangelico and Irish cream in hot coffee.
+Café Royale|coffee,strong|cup|hot|1 cognac;x1 sugar:=Sugar cube;5 coffee|No garnish|Napoleon's coffee with cognac.
+Caffè Corretto|coffee,strong|cup|bn|1 espresso;.5 grappa:or sambuca|No garnish|Italy's "corrected" espresso.
+Kahlúa Iced Coffee|coffee,creamy|highball|bu|1.5 kahlua;4 coldbrew;1 milk|No garnish|Easy afternoon pick-me-up.
+RumChata Iced Coffee|coffee,creamy,sweet|highball|bu|1.5 rumchata;4 coldbrew|Cinnamon|Cinnamon-cream cold brew.
+Hot Buttered Rum|sweet,dessert,pop|mug|hot|2 drum;x1 butterpat;t2 sugar:=Brown sugar;d1 cinnamon;4 water:=Hot water|Cinnamon stick|Colonial-era comfort for a chilly deck.
+Hot Toddy (Brandy)|citrus,sweet,pop|mug|hot|1.5 brandy:or dark rum;.75 lemon;.75 honey;4 water:=Hot water|Lemon wheel & cinnamon stick|The classic soother, made without whiskey.
+Peppermint Patty|dessert,minty|mug|hot|1.5 pschnapps;5 hotchoc;top whipped|Mint or candy cane|Hot chocolate spiked with peppermint schnapps.
+Spiked Mexican Hot Chocolate|spicy|mug|hot|1.5 teqa:or reposado;5 hotchoc;d1 cinnamon;pinch cayenne|Cinnamon stick|Chocolate, cinnamon and a little heat.
+Baileys Hot Chocolate|creamy,dessert|mug|hot|1.5 baileys;5 hotchoc;top whipped|Cocoa dust|Pure comfort.
+Spiced Rum Chai|spicy,creamy|mug|hot|1.5 srum;3 chai;2 milk|Cinnamon|A chai latte with spiced rum.
+Spiked Affogato|dessert|cup|bn|sc1 icecream:=Vanilla gelato;1 espresso;1 frangelico:or amaretto|No garnish|Gelato drowned in espresso and a nutty liqueur.
+Cappuccino|creamy,pop|cup|bn|1 espresso;4 milk:steamed, lots of foam|Cocoa or cinnamon dust|A Café al Bacio classic.
+Latte|creamy,pop|cup|bn|2 espresso;6 milk:steamed|No garnish|Smooth and milky. Ask for vanilla or caramel.
+Flat White|creamy,pop|cup|bn|2 espresso;4 milk:steamed, thin microfoam|No garnish|Stronger and silkier than a latte.
+Caffè Mocha|dessert,pop|cup|bn|2 espresso;.75 chocsyrup;5 milk:steamed;?top whipped|Cocoa dust|Coffee and chocolate.
+Caramel Macchiato|sweet,creamy,pop|cup|bn|.5 vanilla;6 milk:steamed;2 espresso;.5 caramel|Caramel drizzle|Vanilla milk, espresso, caramel.
+Iced Latte|creamy,fresh,pop|highball|bu|2 espresso;6 milk:cold|No garnish|The hot-day coffee.
+Iced Mocha|dessert,fresh,pop|highball|bu|2 espresso;.75 chocsyrup;6 milk:cold|No garnish|Iced coffee and chocolate.
+Affogato|dessert,pop|cup|bn|sc1 icecream:=Vanilla gelato;1.5 espresso|No garnish|Café al Bacio & Gelateria makes this easy: gelato drowned in espresso.
+Freddo Espresso|fresh|highball|shr|2 espresso;?.25 simple|No garnish|Greece's summer staple. Order it "metrio" for medium-sweet.
+Freddo Cappuccino|creamy,fresh|highball|bu|2 espresso;2 milk:cold foam;?.25 simple|No garnish|Iced espresso under cold milk foam, Greek style.
+Greek Frappé|sweet,fresh|highball|shr|t2 instant:Nescafé;2 water;?t2 sugar;?1 milk|No garnish|The 1957 Thessaloniki classic: foamy shaken instant coffee.
+Café Bombón|dessert,sweet|cup|ly|1 condensed;1.5 espresso|No garnish|Valencia's layered espresso and condensed milk.
+Café con Leche|creamy|cup|bn|1.5 espresso;4 milk:steamed|No garnish|Spain's breakfast coffee.
+Galão|creamy|highball|bn|1 espresso;6 milk:foamed|No garnish|Lisbon's tall, milky coffee served in a glass.
+Vietnamese Iced Coffee|sweet,creamy|rocks|bu|4 coffee:strong drip;1 condensed|No garnish|Strong coffee poured over condensed milk and ice.
+Espresso Tonic|fresh|highball|bu|4 tonic;2 espresso|Orange slice|Surprisingly refreshing.
+Hot Chocolate|dessert,pop|mug|bn|6 hotchoc;?top whipped|Marshmallows|Rich and warming.
+Chai Latte|spicy,creamy,pop|mug|bn|4 chai;4 milk:steamed|Cinnamon|Spiced and cozy.
+London Fog|floral,creamy|mug|bn|5 hottea:Earl Grey;.5 vanilla;3 milk:steamed|No garnish|An Earl Grey latte.

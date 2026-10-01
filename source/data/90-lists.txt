@@ -1,0 +1,65 @@
+# Must-try cruise drinks, grouped by moment. Name|why
+@must Pool deck & beach
+Coconut Patrón Margarita|Your ship favorite. Ask for Patrón Silver, fresh lime and a toasted-coconut rim.
+Piña Colada|The cruise original. Upgrade it: "with a dark-rum float."
+Painkiller|Creamier and more grown-up than a colada, with nutmeg on top.
+Miami Vice|Can't choose? Half piña colada, half strawberry daiquiri.
+Lava Flow|Strawberry "lava" swirling up through a colada.
+Bushwacker|A boozy chocolate-coconut milkshake from St. Thomas.
+Rum Runner|A Florida Keys fruit bomb. Great frozen.
+Mango Margarita|Frozen, with a Tajín rim.
+Blue Hawaiian|Photogenic, creamy and coconutty.
+Mojito|The best non-frozen pool drink. Ask for extra mint and crushed ice.
+Caipirinha|Brazil's lime-and-cachaça smash.
+@must Sunset & sail-away
+Aperol Spritz|The 3-2-1 sunset ritual, perfect for Mediterranean sail-aways.
+Hugo Spritz|Elderflower and mint. Lighter than Aperol.
+Paloma|Tequila and grapefruit soda. Lighter than a margarita.
+Spicy Margarita (Jalapeño)|For anyone who likes heat.
+Moscow Mule|Ice-cold ginger refresher.
+Dark 'n' Stormy|Bermuda's ginger beer and black rum.
+French 75|Gin, lemon and bubbles: a celebration in a flute.
+Limoncello Spritz|Amalfi sunshine.
+Bellini|Peach and prosecco, from Harry's Bar in Venice.
+@must Martini Bar
+Espresso Martini|Dessert and a nap-preventer in one.
+Lychee Martini|Floral, fruity and elegant.
+Key Lime Pie Martini|Graham-cracker rim. Basically dessert.
+Passion Fruit Martini|With a shot of bubbly on the side.
+Cosmopolitan|A classic for a reason.
+French Martini|Pineapple foam and raspberry.
+Lemon Drop|Sweet-tart with a sugar rim.
+Chocolate Martini|For the chocolate lovers.
+@must After dinner
+Carajillo|Licor 43 and espresso over ice. Trendy and delicious.
+Mudslide|The Grand Cayman original, blended.
+White Russian|Creamy coffee nightcap.
+Grasshopper|Mint chocolate chip in a glass.
+Brandy Alexander|Silky cognac and chocolate.
+Limoncello|Ice-cold, Amalfi-style.
+@must Zero-proof
+Virgin Piña Colada|All the vacation, none of the rum.
+Coconut No-Garita|Your favorite margarita, zero-proof.
+Nojito|Fresh mint, lime and soda.
+Crodino Spritz|Italy's zero-proof aperitivo.
+# Drinks to suggest because they loved the Coconut Patrón Margarita
+@coco
+Coconut Patrón Margarita
+Frozen Coconut Margarita
+Spicy Coconut Margarita
+Pineapple Coconut Margarita
+Mango Coconut Margarita
+Skinny Coconut Margarita
+Tequila Colada
+Piña Fumada
+Piña Colada
+Painkiller
+Coco Loco
+Coconut Mojito
+Coconut Espresso Martini
+Batida de Coco
+Coconut Mule
+Coconut Cream Pie Martini
+Blue Hawaiian
+Bushwacker
+Coconut No-Garita

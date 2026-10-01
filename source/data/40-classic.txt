@@ -1,0 +1,66 @@
+@cat classic
+Daiquiri|tart,citrus,pop|coupe|sh|2 wrum;1 lime;.75 simple|Lime wheel|The real one: shaken, not frozen. Ask for it "classic, served up."
+Hemingway Daiquiri|tart,dry,pop|coupe|sh|2 wrum;.75 lime;.5 grapefruit;.25 maraschino|Lime wheel|"Papa Doble": Hemingway's low-sugar daiquiri from El Floridita in Havana.
+Strawberry Daiquiri (Shaken)|fruity,tart|coupe|mus|x3 straw;2 wrum;.75 lime;.5 simple|Strawberry|Fresh strawberries, shaken and served up. Brighter than the frozen version.
+Ti' Punch|strong,citrus|rocks|bn|x1 limewedge:=Coin of lime, peel on;b1 simple:=Cane syrup;2 agricole|Lime coin|Martinique and Guadeloupe's ritual: squeeze, stir, sip.
+Corn 'n' Oil|strong,spicy|rocks|bu|2 drum:blackstrap;.5 falernum;d2 angostura;?x1 limewedge|Lime wedge|Barbados' dark, spicy sipper.
+El Presidente|strong,elegant|coupe|st|1.5 wrum;.75 blanc;.25 curacao;b1 grenadine|Orange twist|Havana's 1920s classic.
+Mary Pickford|fruity|coupe|sh|1.5 wrum;1.5 pine;b1 grenadine;b1 maraschino|Cherry|A 1920s Havana tribute to the silent-film star.
+Rum Old Fashioned|strong|rocks|str|2 arum;b1 demerara;d2 angostura;d1 orangebitters|Orange peel|All the Old Fashioned ritual, made with rum. No whiskey.
+Treacle|strong,fruity|rocks|str|2 arum;b1 demerara;d2 angostura;f.5 apple|Lemon twist|Dick Bradsell's rum Old Fashioned with a float of apple juice.
+Kingston Negroni|bitter,strong|rocks|str|1 jrum;1 campari;1 verms|Orange peel|The Negroni with funky Jamaican rum.
+Rum Sour|tart|rocks|shr|2 arum;.75 lemon;.75 simple;?.75 eggwhite;d2 angostura|Lemon wheel|Silky with the egg white.
+Airmail|bubbly,citrus,elegant|coupe|sh|1 grum;.5 lime;.5 honey;top champ|Lime twist|Rum, lime, honey and bubbles.
+Old Cuban|minty,bubbly,elegant|coupe|mus|x6 mint;1.5 arum;.75 lime;1 simple;d2 angostura;top champ|Mint leaf|Audrey Saunders' mojito in a tuxedo.
+Cable Car|citrus,spicy|coupe|sh|rim cinnsugar;1.5 srum;.75 cointreau;1 lemon;.5 simple|Orange spiral|Tony Abou-Ganim's San Francisco modern classic.
+Caipirinha|tart,fresh,pop|rocks|mu|x4 limewedge;t2 sugar;2 cachaca|Lime wedge|Brazil's national cocktail. Ask for crushed ice.
+Caipiroska|tart,fresh|rocks|mu|x4 limewedge;t2 sugar;2 vodka|Lime wedge|A caipirinha made with vodka.
+Strawberry Caipirinha|fruity,tart|rocks|mu|x4 limewedge;x3 straw;t2 sugar;2 cachaca|Strawberry|A Brazilian beach-bar favorite.
+Passion Fruit Caipirinha|tart,tropical|rocks|mu|x3 limewedge;1 passion;t2 sugar;2 cachaca|Lime wedge|Tropical and tangy.
+Pisco Sour|tart,elegant,pop|coupe|sh|2 pisco;1 lime;.75 simple;.75 eggwhite;d3 angostura|Bitters dotted on the foam|Peru and Chile both claim it. Silky with egg white.
+Pisco Punch|fruity|coupe|sh|2 pisco;1 pine;.5 lemon;.5 simple|Pineapple chunk|Gold-Rush-era San Francisco legend.
+Guaro Sour|tart,fresh|rocks|shr|2 guaro;1 lime;.75 simple|Lime wheel|Costa Rica's everyday cocktail.
+Poncha|citrus,strong|rocks|bu|2 agricole:=Aguardente de cana (cane spirit);.75 lemon;.75 honey|Lemon peel|Madeira's honey-lemon cane-spirit punch, stirred with a wooden stick.
+Gimlet|tart,citrus,pop|coupe|sh|2 gin;.75 lime;.75 simple|Lime wheel|Bright and simple. The old-school version uses Rose's lime cordial.
+Vodka Gimlet|tart,citrus,pop|coupe|sh|2 vodka;.75 lime;.75 simple|Lime wheel|Clean, tart and cold.
+Cucumber Gimlet|fresh,citrus|coupe|mus|x3 cucumber;2 gin;.75 lime;.75 simple|Cucumber ribbon|Spa-day refreshing.
+Gin Basil Smash|herbal,fresh,tart,pop|rocks|mus|x10 basil;2 gin;.75 lemon;.5 simple|Basil sprig|Hamburg's modern classic (Le Lion bar, 2008).
+Bee's Knees|citrus,sweet,pop|coupe|sh|2 gin;.75 lemon;.75 honey|Lemon twist|Prohibition-era gin, honey and lemon.
+Southside|minty,fresh,citrus|coupe|mus|x8 mint;2 gin;.75 lime;.75 simple|Mint leaf|Think gin mojito, served up.
+Aviation|floral,tart,elegant,pop|coupe|sh|2 gin;.5 maraschino;.25 violette;.75 lemon|Cherry|Sky-blue 1916 classic.
+Last Word|herbal,tart,strong,pop|coupe|sh|.75 gin;.75 chartg;.75 maraschino;.75 lime|Cherry|Equal parts, from the Detroit Athletic Club in the 1920s.
+Corpse Reviver No. 2|citrus,herbal|coupe|sh|rinse absinthe;.75 gin;.75 cointreau;.75 lillet;.75 lemon|Orange twist|"Four taken in swift succession will unrevive the corpse again."
+Negroni|bitter,strong,pop|rocks|str|1 gin;1 campari;1 verms|Orange peel|Florence, 1919. Equal parts bitter, sweet and boozy.
+White Negroni|bitter,herbal|rocks|str|1.5 gin;1 lillet;.75 suze|Lemon twist|Golden and bittersweet.
+Clover Club|fruity,tart,elegant,pop|coupe|sh|1.5 gin;.5 vermd;.5 lemon;.5 rasp-syrup;.75 eggwhite|Raspberries|Pink, frothy pre-Prohibition classic from Philadelphia.
+Pink Lady|fruity,elegant,pop|coupe|sh|1.5 gin;.5 applebrandy;.75 lemon;.5 grenadine;.75 eggwhite|Cherry|1930s glamour.
+White Lady|citrus,tart|coupe|sh|2 gin;.75 cointreau;.75 lemon;?.75 eggwhite|Lemon twist|Harry MacElhone's crisp classic.
+Bramble|fruity,berry,tart,pop|rocks|shr|2 gin;.75 lemon;.5 simple;f.5 blackberry-liq|Blackberries & lemon|Dick Bradsell, London 1984. The blackberry liqueur drizzles through crushed ice.
+Gin Fizz|citrus,fresh,pop|highball|sh|2 gin;.75 lemon;.75 simple;top soda|Lemon wheel|Light, frothy and bubbly. Served without ice.
+Ramos Gin Fizz|creamy,citrus,floral|collins|sh|2 gin;.5 lemon;.5 lime;.75 simple;1 cream;.75 eggwhite;d3 ofw;top soda|No garnish|New Orleans' famously long-shaken fizz.
+Singapore Sling|fruity,tropical,pop|collins|shr|1.5 gin;.5 heering;.25 cointreau;.25 benedictine;2 pine;.5 lime;.25 grenadine;d1 angostura;top soda|Pineapple & cherry|Raffles Hotel, Singapore, around 1915.
+Monkey Gland|fruity|coupe|sh|rinse absinthe;1.5 gin;1.5 oj;b1 grenadine|Orange twist|1920s Paris, from Harry's New York Bar.
+Pegu Club|citrus,strong|coupe|sh|2 gin;.75 curacao;.75 lime;d1 angostura;d1 orangebitters|Lime wheel|The house drink of a British officers' club in Burma.
+Gin Sour|tart|rocks|shr|2 gin;.75 lemon;.75 simple;?.75 eggwhite|Lemon wheel|Simple and bright.
+Army & Navy|nutty,citrus|coupe|sh|2 gin;.75 lemon;.5 orgeat;d1 angostura|Lemon twist|Gin, lemon and almond.
+Hanky Panky|bitter,herbal,strong|coupe|st|1.5 gin;1.5 verms;b2 fernet|Orange peel|Ada Coleman's 1903 Savoy classic.
+Bijou|herbal,strong|coupe|st|1 gin;1 verms;1 chartg;d1 orangebitters|Cherry|A jewel of a drink: gin, vermouth and green Chartreuse.
+Jasmine|bitter,citrus|coupe|sh|1.5 gin;.25 campari;.25 cointreau;.75 lemon|Lemon twist|Tastes like grapefruit juice, with no grapefruit in it.
+Twentieth Century|citrus,elegant|coupe|sh|1.5 gin;.75 lillet;.5 cacao;.75 lemon|Lemon twist|Named after the 1930s luxury train. A hint of chocolate.
+Bronx|fruity,citrus|coupe|sh|1.5 gin;.5 verms;.5 vermd;1 oj|Orange twist|A Prohibition-era favorite, like a martini with orange juice.
+Satan's Whiskers|citrus,fruity|coupe|sh|1 gin;.5 verms;.5 vermd;.5 gm;.5 oj;d1 orangebitters|Orange twist|Despite the name, no whiskey. Bright orange and herbal.
+Casino|citrus,tart|coupe|sh|2 gin;.25 maraschino;.5 lemon;d2 orangebitters|Cherry|A crisp 1920s cousin of the Aviation.
+Sidecar|citrus,strong,pop|coupe|sh|?rim sugar;2 cognac;.75 cointreau;.75 lemon|Orange twist|Paris, WWI era. Cognac, orange and lemon.
+Between the Sheets|citrus,strong|coupe|sh|1 cognac;1 wrum;.75 cointreau;.5 lemon|Lemon twist|A sidecar with rum.
+Jack Rose|fruity|coupe|sh|2 applebrandy;.75 lemon;.5 grenadine|Apple slice|Apple brandy and grenadine, a 1920s favorite.
+Brandy Crusta|citrus,strong|coupe|sh|rim sugar;2 brandy;.25 curacao;.25 maraschino;.5 lemon;d1 angostura|Long lemon peel|1850s New Orleans: the grandfather of the sidecar.
+Metropolitan|strong|coupe|st|1.5 brandy;1 verms;.25 simple;d2 angostura|Orange twist|A brandy Manhattan. No whiskey.
+Stinger|minty,strong,pop|rocks|str|2 cognac;.75 wmenthe|Mint sprig|A classic nightcap: cognac and white crème de menthe.
+Japanese Cocktail|nutty,strong|coupe|st|2 cognac;.5 orgeat;d2 angostura|Lemon twist|An 1862 Jerry Thomas classic.
+Champs-Élysées|herbal,citrus|coupe|sh|1.5 cognac;.5 charty;.75 lemon;.25 simple;d1 angostura|Lemon twist|Cognac brightened with yellow Chartreuse.
+Brandy Old Fashioned|sweet|rocks|mu|x1 orangeslice;x1 cherry;t1 sugar;d3 angostura;2 brandy;top lemonlime|Orange slice & cherry|Wisconsin's supper-club classic.
+Brandy Sour|tart|rocks|shr|2 brandy;.75 lemon;.75 simple;?.75 eggwhite;d2 angostura|Lemon wheel|Rich and tangy.
+Amaretto Sour|nutty,tart,sweet,pop|rocks|shr|2 amaretto;1 lemon;.25 simple;?.75 eggwhite|Cherry & lemon wheel|Sweet-tart almond. Ask for fresh lemon, not sour mix.
+Midori Sour|sweet,tart,fun,pop|rocks|shr|1.5 midori;.5 vodka;1 lemon;.25 simple|Cherry|Bright green and candy-like.
+Sloe Gin Fizz|fruity,bubbly,pop|highball|sh|1.5 sloe;.5 gin;.75 lemon;.5 simple;top soda|Lemon wheel|Plummy and bright.
+Godmother|nutty,strong,pop|rocks|str|1.5 vodka;.75 amaretto|No garnish|Vodka and amaretto: the whiskey-free sibling of the Godfather.

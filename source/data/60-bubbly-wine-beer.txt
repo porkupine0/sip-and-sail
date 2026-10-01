@@ -1,0 +1,54 @@
+@cat bubbly
+Aperol Spritz|bitter,fresh,pop|wine|bu|3 prosecco;2 aperol;1 soda|Orange slice|Italy's 3-2-1 sunset ritual. Perfect for a Mediterranean sail-away.
+Campari Spritz|bitter,pop|wine|bu|3 prosecco;2 campari;1 soda|Orange slice|Bolder and more bitter than Aperol.
+Hugo Spritz|floral,fresh,minty,pop|wine|mu|x6 mint;1 stg;4 prosecco;1 soda;?.25 lime|Mint sprig & lime wheel|South Tyrol's elderflower spritz. Lighter than Aperol.
+Limoncello Spritz|citrus,sweet,pop|wine|bu|2 limoncello;3 prosecco;1 soda|Lemon wheel & mint|Amalfi Coast sunshine.
+Elderflower Spritz|floral|wine|bu|1.5 stg;2 champ;2 soda|Lemon twist|Light and floral.
+Lillet Tonic|floral,fresh|wine|bu|2 lillet;top tonic|Cucumber, strawberry & mint|Bordeaux's easy aperitif.
+Bicicletta|bitter,fresh|wine|bu|2 campari;3 wwine;1 soda|Orange slice|The Italian white-wine spritz.
+Negroni Sbagliato|bitter,elegant,pop|rocks|bu|1 campari;1 verms;top prosecco|Orange slice|The "mistaken Negroni" from Milan's Bar Basso: prosecco instead of gin.
+Mimosa|brunch,fruity,pop|flute|bn|2.5 oj;3 champ|Orange twist|The sea-day brunch default.
+Pineapple Mimosa|brunch,tropical|flute|bn|2.5 pine;3 champ|Pineapple wedge|A tropical twist on the mimosa.
+Mango Mimosa|brunch,tropical|flute|bn|2 mango;3.5 champ|Mango slice|Mango nectar and bubbles.
+Bellini|fruity,brunch,elegant,pop|flute|bn|2 peach-pur;4 prosecco|No garnish|Harry's Bar, Venice, 1948.
+Rossini|fruity,berry|flute|bn|2 straw-pur;4 prosecco|Strawberry|The Bellini's strawberry sibling.
+Kir Royale|fruity,elegant,pop|flute|bn|.5 cassis;5 champ|No garnish|Burgundy's blackcurrant bubbly.
+Champagne Cocktail|elegant|flute|bn|x1 sugar:=Sugar cube;d3 angostura;5 champ;?.5 cognac|Lemon twist|A bitters-soaked sugar cube fizzing in Champagne.
+French 75|citrus,elegant,pop|flute|sh|1 gin;.5 lemon;.5 simple;top champ|Lemon twist|Named after a WWI field gun, because it has a kick.
+French 77|floral,elegant|flute|sh|1 gin;.5 stg;.5 lemon;top champ|Lemon twist|A French 75 with elderflower.
+Sgroppino|dessert,citrus|flute|bl|sc1 sorbet;.5 vodka;3 prosecco|Lemon twist|Venice's whipped lemon-sorbet sipper. Light and lovely after dinner.
+Death in the Afternoon|anise,elegant,strong|flute|bn|1 absinthe;4 champ|No garnish|Hemingway's absinthe and Champagne.
+Chambord Royale|fruity,berry|flute|bn|.5 chambord;5 champ|Raspberry|Raspberry liqueur and bubbles.
+Poinsettia|fruity,elegant|flute|bn|.5 cointreau;1.5 cran;3.5 champ|Cranberries|Cranberry, orange liqueur and Champagne.
+@cat wine
+Red Sangria|fruity,sweet,pop|wine|bu|4 rwine;1 brandy;.5 cointreau;1.5 oj;.5 simple;1 lemonlime|Orange & apple slices|Spain's party pitcher.
+White Sangria|fruity,fresh,pop|wine|bu|4 wwine;.75 peach;.5 cointreau;1 apple;1 soda|Peach, apple & citrus slices|Lighter and crisp.
+Cava Sangria|bubbly,fruity|wine|bu|3 champ:Cava;.75 brandy;.5 cointreau;1 oj|Strawberries & orange|Catalonia-style sangria with bubbles.
+Tinto de Verano|fresh|wine|bu|3 rwine;3 lemonlime:or Spanish lemon soda|Lemon slice|What Spaniards actually drink in summer.
+Kalimotxo|fun|highball|bu|3 rwine;3 cola|Lemon wedge|Basque red wine and Coke. Don't knock it till you try it.
+Rebujito|fresh,minty|wine|bu|2 sherry:fino or manzanilla;4 lemonlime;?x4 mint|Mint sprig|Seville's fair-week drink: chilled sherry and lemon-lime soda.
+Agua de Valencia|fruity,bubbly|wine|bu|3 champ:Cava;2 oj;.5 vodka;.5 gin;.25 simple|Orange slice|Valencia's 1959 classic: Cava, fresh orange, gin and vodka.
+Vermut|bitter,fresh|rocks|bu|3 verms:Spanish red vermut;sp soda|Orange slice & olive|Barcelona's pre-lunch ritual, "la hora del vermut."
+Kir|fruity,pop|wine|bn|.5 cassis;5 wwine:Burgundy Aligoté|No garnish|Burgundy's aperitif, named after a mayor of Dijon.
+Wine Spritzer|fresh|wine|bu|4 wwine;2 soda|Lemon twist|Light and easy.
+White Port & Tonic|fresh,bitter|highball|bu|2 whiteport;4 tonic|Orange slice & mint|Porto's summer aperitif, the "Porto Tónico."
+Sherry Cobbler|fruity|collins|shd|3 sherry:amontillado;.5 simple;x2 orangeslice|Berries & orange|America's favorite drink in the 1830s. Low-proof and refreshing.
+Mulled Wine|spicy,sweet|mug|hot|5 rwine;.5 brandy;.5 honey;d2 cinnamon|Orange slice & cinnamon stick|Christmas-market comfort for chilly evening sail-aways.
+Frosé|fruity,fresh,fun|wine|bl|4 rosewine;1 straw-pur;.5 lemon;.5 simple|Strawberry|Frozen rosé. Ask if the bar will blend wine.
+Medio y Medio|bubbly,sweet|flute|bn|3 champ;3 wwine:sweet white|No garnish|Montevideo's half-and-half from Café Roldós.
+Clericó|fruity,fresh|wine|bu|4 wwine;1 oj;.5 simple;1 soda|Diced fruit|Argentina and Uruguay's white-wine sangria.
+Terremoto|sweet,fun|highball|bn|5 wwine:pipeño or sweet white;sc1 icecream:=Pineapple ice cream;.5 grenadine:or a splash of Fernet|No garnish|Chile's "Earthquake": white wine, pineapple ice cream and grenadine.
+Fish House Punch|strong,fruity|rocks|shr|1 drum;.75 cognac;.25 peach:=Peach brandy;.75 lemon;.75 simple;1 water|Lemon wheel|Philadelphia's 1732 punch.
+Port|sweet,dessert,pop|wine|po|3 port|No garnish|A dessert in itself. Try a tawny with the cheese course.
+@cat beer
+Michelada|savory,spicy,fresh,pop|pint|bu|rim tajin;1 lime;d3 hotsauce;d2 worcestershire;?2 clamato;12 lager|Lime wedge|Mexico's spicy beer cocktail.
+Chelada|fresh|pint|bu|rim salt;1 lime;12 lager|Lime wedge|Beer, lime and a salted rim.
+Shandy|fresh,pop|pint|bu|6 beer;6 lemonade|Lemon wheel|Half beer, half lemonade.
+Radler|fresh,pop|pint|bu|6 beer;6 lemonlime|Lemon wheel|Germany's cyclists' drink: beer and lemon soda.
+Monaco|fruity|pint|bu|6 beer;5 lemonlime;.5 grenadine|No garnish|France's pink shandy.
+Black Velvet|bubbly,elegant,pop|flute|bn|3 stout;3 champ|No garnish|London, 1861: Guinness and Champagne.
+Snakebite|fresh|pint|bu|8 beer;8 cider|No garnish|Lager and hard cider.
+Beermosa|brunch|pint|bn|4 wheat;2 oj|Orange slice|Brunch beer.
+Lunchbox|fruity,sweet,fun|pint|bu|8 beer;2 oj;1 amaretto|No garnish|Beer, OJ and a dropped shot of amaretto.
+Red Eye|savory|pint|bu|8 beer;4 tomato|No garnish|Beer and tomato juice. Calgary calls it a Red Eye.
+Stout Float|dessert,creamy|pint|bn|8 stout;sc2 icecream|No garnish|Guinness and vanilla ice cream.

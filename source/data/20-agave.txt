@@ -1,0 +1,53 @@
+@cat marg
+Coconut Patrón Margarita|tropical,creamy,pop|rocks|shr|rim toastedcoco:mixed with sugar;2 teq:Patrón Silver;1.5 cococream;1 lime;.5 cointreau:Cointreau or Patrón Citrónge|Lime wheel|Your ship favorite. Shake it hard so the coconut gets silky, then strain over fresh ice.
+Frozen Coconut Margarita|tropical,creamy,sweet|marg|bl|rim toastedcoco;2 teq;2 cococream;1 lime;.5 cointreau;1 coconut-water|Lime wheel|Your favorite, blended for the pool deck.
+Spicy Coconut Margarita|tropical,creamy,spicy|rocks|mus|rim tajin;x3 jalapeno;2 teq;1.5 cococream;1 lime;.5 cointreau|Jalapeño slice|Coconut cools the jalapeño heat. Tajín rim.
+Pineapple Coconut Margarita|tropical,fruity,creamy|rocks|shr|rim toastedcoco;2 teq;1 cococream;1.5 pine;.75 lime;.5 cointreau|Pineapple wedge|Piña colada meets margarita.
+Mango Coconut Margarita|tropical,fruity,creamy|rocks|shr|2 teq;1 cococream;1.5 mango;.75 lime;.5 cointreau|Mango slice|Mango and coconut, tequila-style.
+Skinny Coconut Margarita|tropical,fresh|rocks|shr|?rim salt;2 teq;2 coconut-water;1 lime;.5 agave|Lime wheel|Coconut water instead of cream: lighter, less sweet, still tropical.
+Tequila Colada|tropical,creamy,sweet|hurricane|bl|2 teq;2 cococream;3 pine|Pineapple wedge|A piña colada with tequila instead of rum.
+Classic Margarita|tart,citrus,pop|rocks|shr|?rim salt;2 teq;1 lime;.75 cointreau;?.25 agave|Lime wheel|Ask for 100% agave tequila and fresh lime instead of sour mix.
+Tommy's Margarita|tart,fresh,pop|rocks|shr|2 teq;1 lime;.5 agave|Lime wheel|San Francisco's modern classic: no orange liqueur, just agave.
+Cadillac Margarita|tart,pop|rocks|shr|rim salt;2 teqr;1 lime;.5 cointreau;f.5 gm|Lime wheel|Top-shelf reposado with a Grand Marnier float.
+Frozen Margarita|tart,sweet,pop|marg|bl|rim salt;2 teq;1 cointreau;1.5 lime;.75 simple|Lime wheel|Pool-deck essential.
+Frozen Strawberry Margarita|fruity,sweet,pop|marg|bl|?rim sugar;2 teq;.5 cointreau;3 straw-pur;1 lime;.5 simple|Strawberry|Fruity, pink and frosty.
+Mango Margarita|fruity,tropical,pop|marg|bl|?rim tajin;2 teq;.5 cointreau;3 mango;1 lime|Mango slice|Great frozen or on the rocks. Try it with a Tajín rim.
+Spicy Margarita (Jalapeño)|spicy,tart,pop|rocks|mus|?rim tajin;x3 jalapeno;2 teq;1 lime;.75 cointreau;.25 agave|Jalapeño slice|Ask them to muddle fresh jalapeño, or use a jalapeño-infused tequila.
+Spicy Pineapple Margarita|spicy,fruity,tropical|rocks|mus|rim tajin;x2 jalapeno;2 teq;1.5 pine;.75 lime;.5 cointreau|Pineapple wedge|Sweet heat.
+Passion Fruit Margarita|tart,fruity,tropical|rocks|shr|2 teq;1 passion;.75 lime;.5 cointreau;.25 agave|Lime wheel|Tangy and tropical.
+Watermelon Margarita|fruity,fresh|rocks|mus|?rim tajin;x4 melon;2 teq;.75 lime;.5 cointreau;.25 agave|Watermelon wedge|Summer in a glass.
+Blood Orange Margarita|fruity,citrus|rocks|shr|?rim salt;2 teq;1.5 oj:blood orange;.75 lime;.5 cointreau|Blood orange wheel|Deep red and a little tart.
+Blue Margarita|tart,fun|marg|shr|rim salt;2 teq;1 bcur;1 lime;.25 agave|Lime wheel|The margarita in vacation blue.
+Raspberry Margarita|fruity,berry|rocks|shr|2 teq;.5 chambord;1 lime;.5 cointreau|Raspberries|Berry-red margarita.
+Peach Margarita|fruity,sweet|marg|bl|2 teq;.5 cointreau;2 peach-pur;1 lime;.25 agave|Peach slice|Blended or shaken, it's sunshine either way.
+Hibiscus Margarita|floral,tart|rocks|shr|2 teq;1 lime;.75 hibiscus;.5 cointreau|Lime wheel|Jamaica (hibiscus) flowers are a classic Mexican flavor.
+Cucumber Jalapeño Margarita|spicy,fresh|rocks|mus|x3 cucumber;x2 jalapeno;2 teq;1 lime;.75 agave|Cucumber slice|Cool and spicy at the same time.
+Strawberry Basil Margarita|fruity,herbal|rocks|mus|x2 straw;x4 basil;2 teq;.75 lime;.5 cointreau;.25 agave|Basil leaf|Sweet strawberry, herbal basil.
+Champagne Margarita|bubbly,tart,elegant|coupe|sh|1.5 teq;.75 lime;.5 cointreau;top champ|Lime twist|A margarita topped with bubbles.
+Beergarita|tart,fun|pint|bu|1.5 teq;1 lime;.75 cointreau;.5 agave;7 lager:Coronita, tipped upside down|Lime wheel|A margarita with a mini Corona upturned in it. Pure cruise energy.
+Paloma|fresh,citrus,pop|highball|bu|?rim salt;2 teq;.5 lime;top gfsoda|Grapefruit wedge|Mexico's favorite highball. Lighter than a margarita and just as good.
+Fresh Paloma|fresh,tart|highball|bu|?rim salt;2 teq;2 grapefruit;.5 lime;.5 agave;top soda|Grapefruit wedge|The from-scratch version with fresh grapefruit.
+Tequila Sunrise|fruity,sweet,pop|highball|bu|2 teq;4 oj;.5 grenadine|Orange slice & cherry|Pour the grenadine last so it sinks into a sunrise.
+El Diablo|fruity,ginger|highball|bu|1.5 teqr;.5 cassis;.5 lime;top gbeer|Lime wedge|Tequila, blackcurrant and ginger beer, from 1940s Trader Vic.
+Mexican Mule|ginger,fresh,pop|copper|bu|2 teq;.5 lime;top gbeer|Lime wedge & mint|The Moscow Mule's tequila cousin.
+Batanga|fresh,citrus|highball|bu|rim salt;2 teq;.5 lime;top cola|Lime wedge|Tequila and Mexican Coke with a salted rim, from La Capilla in Tequila, Jalisco.
+Cantarito|fresh,citrus,fruity|highball|bu|?rim tajin;2 teq;1 oj;1 grapefruit;.5 lime;top gfsoda|Citrus wedges|Traditionally served in a clay cup in Jalisco.
+Ranch Water|fresh,dry,pop|highball|bu|2 teq;.75 lime;top soda:Topo Chico if available|Lime wedge|West Texas's crisp, low-sugar tequila highball.
+Matador|fruity|coupe|sh|1.5 teq;2 pine;.5 lime|Pineapple wedge|Tequila and pineapple. Simple and great.
+Bloody Maria|savory,spicy,brunch|highball|bu|?rim celerysalt;2 teq;4 tomato;.5 lime;d3 worcestershire;d2 hotsauce;pinch pepper|Celery & lime wedge|A Bloody Mary made with tequila.
+Oaxaca Old Fashioned|strong,smoky|rocks|str|1.5 teqr;.5 mezcal;b1 agave;d2 angostura|Flamed orange peel|Phil Ward's agave Old Fashioned. No whiskey anywhere.
+Tequila Sour|tart|rocks|shr|2 teq;1 lime;.75 simple;?.75 eggwhite|Lime wheel|Tequila in the classic sour template.
+Siesta|tart,bitter|coupe|sh|1.5 teq;.5 campari;.5 grapefruit;.75 lime;.5 simple|Grapefruit twist|A bittersweet tequila sour.
+Mexican Firing Squad|tart,fruity|rocks|shr|2 teq;.75 lime;.75 grenadine;d2 angostura|Lime wheel|1930s Mexico City: tequila, lime and pomegranate.
+Juan Collins|fresh,citrus|collins|bu|2 teq;1 lemon;.75 simple;top soda|Lemon wheel & cherry|A Tom Collins made with tequila.
+Tequila Mojito|minty,fresh|highball|mu|x8 mint;.75 lime;.5 agave;2 teq;top soda|Mint sprig|A mojito made with tequila.
+Rosita|bitter,strong|rocks|str|1.5 teqr;.5 campari;.5 verms;.5 vermd;d1 angostura|Lemon twist|A tequila cousin of the Negroni.
+Vampiro|savory,spicy,fruity|highball|bu|rim tajin;2 teq;1.5 tomato;1 oj;.5 lime;.25 grenadine;d2 hotsauce;top gfsoda|Lime wedge|Jalisco's sweet-spicy-savory highball.
+Mezcal Margarita|smoky,tart|rocks|shr|?rim tajin;2 mezcal;1 lime;.75 cointreau|Orange slice|A smoky twist on the classic.
+Mezcal Paloma|smoky,fresh|highball|bu|?rim salt;2 mezcal;.5 lime;top gfsoda|Grapefruit wedge|Smoke and grapefruit.
+Naked and Famous|smoky,bitter,herbal,pop|coupe|sh|.75 mezcal;.75 aperol;.75 charty;.75 lime|No garnish|Equal parts: smoky, bittersweet and herbal.
+Mezcal Negroni|smoky,bitter,strong|rocks|str|1 mezcal;1 campari;1 verms|Orange peel|A smoky Negroni.
+Division Bell|smoky,bitter|coupe|sh|1 mezcal;.75 aperol;.5 maraschino;.75 lime|Grapefruit peel|Mezcal, Aperol and lime. Bright and smoky.
+Mezcal Mule|smoky,ginger|copper|bu|2 mezcal;.5 lime;?.5 passion;top gbeer|Lime wheel & cucumber|A smoky mule.
+Tequila Espresso Martini|coffee|martini|sh|1.5 teqr;1 espresso;.5 kahlua;.25 agave|Coffee beans|A reposado twist on the espresso martini.
+Mexican Martini|savory,tart|martini|sh|?rim salt;2 teqr;.75 cointreau;1 lime;.5 oj;.5 olivebrine|Olives|An Austin, Texas favorite: a salty, briny margarita served up.
