@@ -2855,19 +2855,21 @@ ${catalog()}`;
     return `<div class="field" id="${px}-keyfield"><span>Claude API key (optional)</span>
         <p class="muted" style="font-size:13px">Lets <b>Describe it</b> on the Mood tab understand anything you type when you have a connection. Each question costs a few cents (under 10¢), billed to your Anthropic account. The key stays on this phone and isn't in backups. The same key as Fuel Log works.</p>
         ${apiKey ? `<p style="font-size:14px">Saved on this phone: <b>${esc(apiKey.slice(0, 10))}…${esc(apiKey.slice(-4))}</b></p>` : `<ol class="key-steps"><li>Sign in at <a href="https://console.anthropic.com/settings/keys" target="_blank" rel="noopener">console.anthropic.com</a>.</li><li>Under Billing, add a little credit. A monthly spend limit is a good idea.</li><li>Under API keys, create a key, then paste it here.</li></ol>`}
-        <textarea class="key-in" id="${px}-apikey" rows="4" placeholder="sk-ant-…" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" aria-label="${apiKey ? 'Replace your Claude API key' : 'Your Claude API key'}"></textarea>
+        <textarea class="key-in" id="${px}-apikey" rows="4" placeholder="Paste your key here" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false" aria-label="${apiKey ? 'Replace your Claude API key' : 'Your Claude API key'}"></textarea>
         <p class="muted" style="font-size:12px">Paste the whole key. It shows here so you can check it against your notes.</p>
         <div class="btn-row"><button class="btn small" type="button" data-act="key-save">Save key</button>${apiKey ? '<button class="btn small" type="button" data-act="key-test">Test it</button><button class="btn small ghost" type="button" data-act="key-drop">Remove key</button>' : ''}</div>
         <p class="key-status${/✓/.test(keyStatus) ? ' ok' : /didn’t|doesn’t|isn’t|first\./.test(keyStatus) ? ' bad' : ''}" aria-live="polite">${esc(keyStatus)}</p>
       </div>`;
   }
-  // what gets pasted isn't always just the key: a label in front, a line break, spaces, invisible characters or look-alike dashes from Notes
+  // what gets pasted isn't always just the key: spaces, line breaks, invisible characters or look-alike dashes from Notes,
+  // sometimes a label or quotes around it. Those come out; there's no check on what a key looks like, Anthropic decides that.
   function cleanKey(raw) {
     const trimmed = String(raw || '').trim();
-    const s = trimmed.normalize('NFKC').replace(/[\u2010-\u2015\u2212\uFE58\uFE63\uFF0D]/g, '-').replace(/[\s\p{Cf}]/gu, '');
-    const m = s.match(/sk-ant-[A-Za-z0-9_-]{20,}/i);
-    const key = m ? 'sk-ant-' + m[0].slice(7) : '';
-    return { key, seen: s, changed: !!key && key !== trimmed };
+    let s = trimmed.normalize('NFKC').replace(/[\u2010-\u2015\u2212\uFE58\uFE63\uFF0D]/g, '-').replace(/[\s\p{Cf}]/gu, '');
+    const at = s.toLowerCase().indexOf('sk-ant-');
+    if (at >= 0) s = 'sk-ant-' + s.slice(at + 7);
+    s = s.replace(/^["'“‘(\[]+|["'”’)\].,;:]+$/g, '');
+    return { key: s, changed: !!s && s !== trimmed };
   }
   function testKeyNow(f, prefix) {
     const id = f.id, px = id.replace(/-keyfield$/, '');
@@ -2875,7 +2877,7 @@ ${catalog()}`;
     keyStatus = `${prefix}Checking it…`; redraw();
     callClaude({ content: 'Reply with {"ok": true}.', schema: PING_SCHEMA })
       .then(() => { keyStatus = `${prefix}✓ Your key works. Describe it now uses Claude when you’re online.`; })
-      .catch(e => { keyStatus = prefix + (e && e.kind === 'offline' ? 'No connection, so it can’t be checked yet. Tap Test it when you’re online.' : e && e.kind === 'auth' ? 'That key didn’t work. Compare it with your notes, then paste it again.' : errLine(e)); })
+      .catch(e => { keyStatus = prefix + (e && e.kind === 'offline' ? 'No connection, so it can’t be checked yet. Tap Test it when you’re online.' : e && e.kind === 'auth' ? 'Anthropic says this key isn’t valid. Compare it with your notes, then paste it again.' : errLine(e)); })
       .finally(redraw);
   }
   function redrawKey(t) {
@@ -3292,9 +3294,9 @@ ${catalog()}`;
     'ask-clear': () => { ask.text = ''; ask.picks = null; ask.note = ''; ask.reply = ''; renderQuiz(); },
     'key-save': t => {
       const f = t.closest('[id$="-keyfield"]'), c = cleanKey(f.querySelector('.key-in').value);
-      if (!c.key) { keyStatus = !c.seen ? 'Paste your key first.' : `That doesn’t look like a Claude API key. Keys start with sk-ant-, and what you pasted starts with “${c.seen.slice(0, 12)}” (${c.seen.length} characters).`; redrawKey(t); return; }
+      if (!c.key) { keyStatus = 'Paste your key first.'; redrawKey(t); return; }
       apiKey = c.key; store.set('apikey', c.key);
-      testKeyNow(f, c.changed ? 'Saved, leaving out the spaces or extra text around the key. ' : 'Saved. ');
+      testKeyNow(f, c.changed ? 'Saved, leaving out the spaces or extra characters around it. ' : 'Saved. ');
     },
     'key-test': t => testKeyNow(t.closest('[id$="-keyfield"]'), ''),
     'key-drop': t => {
