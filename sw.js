@@ -1,5 +1,5 @@
 // Sip & Sail offline cache. Cache-first, refreshed in the background when online.
-const CACHE = 'sipsail-e1ad4e915a';
+const CACHE = 'sipsail-e315ff0953';
 const ASSETS = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './apple-touch-icon.png', './favicon-32.png'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)).then(() => self.skipWaiting()));

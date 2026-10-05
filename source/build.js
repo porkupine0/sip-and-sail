@@ -1,7 +1,9 @@
 // Builds three outputs from src/ + data/:
 //   dist/artifact.html      page body for the claude.ai Artifact (no <html>/<head> wrapper)
 //   dist/Sip-and-Sail.html  one self-contained file that runs offline in any browser
-//   dist/web/               the same app plus manifest + service worker, for hosting as an installable PWA
+//   dist/web/               the same app plus manifest + service worker, for hosting as an installable PWA.
+//                           Only this one can ask Claude ("Describe it" with the person's own API key), so only it
+//                           gets the SIPSAIL_AI flag and vendor/ (the Anthropic SDK); the others match by keywords.
 const fs = require('fs');
 const path = require('path');
 const R = p => fs.readFileSync(path.join(__dirname, p), 'utf8');
@@ -23,10 +25,10 @@ const fonts = `@font-face{font-family:"Limelight";font-style:normal;font-weight:
 @font-face{font-family:"Josefin Sans";font-style:normal;font-weight:600;font-display:swap;src:url(data:font/woff2;base64,${B64('fonts/Josefin-Sans-wght-600.woff2')}) format("woff2")}`;
 const css = R('src/style.css');
 const body = R('src/body.html');
-const scripts = `<script type="text/plain" id="ing-data">\n${ingText}\n</script>
+const scripts = web => `<script type="text/plain" id="ing-data">\n${ingText}\n</script>
 <script type="text/plain" id="recipe-data">\n${recipeText}\n</script>
 <script type="text/plain" id="list-data">\n${listText}\n</script>
-<script>window.SIPSAIL_URL = ${JSON.stringify(process.env.SITE_URL || '')};</script>
+<script>window.SIPSAIL_URL = ${JSON.stringify(process.env.SITE_URL || '')};${web ? ' window.SIPSAIL_AI = true;' : ''}</script>
 <script>\n${R('src/core.js')}\n</script>
 <script>\n${R('src/app.js')}\n</script>`;
 for (const bad of ['</script', '<!--']) {
@@ -42,7 +44,7 @@ ${fonts}
 ${css}
 </style>
 ${body}
-${scripts}
+${scripts(false)}
 `;
 
 function fullDoc({ web, icons }) {
@@ -68,7 +70,7 @@ ${css}
 </head>
 <body>
 ${body}
-${scripts}
+${scripts(web)}
 </body>
 </html>
 `;
@@ -80,6 +82,8 @@ const iconB64 = n => fs.existsSync(path.join(dist, 'web', n)) ? 'data:image/png;
 fs.writeFileSync(path.join(dist, 'artifact.html'), artifact);
 fs.writeFileSync(path.join(dist, 'Sip-and-Sail.html'), fullDoc({ web: false, icons: { favicon: iconB64('favicon-32.png'), apple: iconB64('apple-touch-icon.png') } }));
 fs.writeFileSync(path.join(dist, 'web', 'index.html'), fullDoc({ web: true, icons: { favicon: 'favicon-32.png', apple: 'apple-touch-icon.png' } }));
+fs.mkdirSync(path.join(dist, 'web', 'vendor'), { recursive: true });
+for (const f of fs.readdirSync(path.join(__dirname, 'vendor'))) fs.copyFileSync(path.join(__dirname, 'vendor', f), path.join(dist, 'web', 'vendor', f));
 const version = require('crypto').createHash('sha1').update(artifact).digest('hex').slice(0, 10);
 fs.writeFileSync(path.join(dist, 'web', 'sw.js'), `// Sip & Sail offline cache. Cache-first, refreshed in the background when online.
 const CACHE = 'sipsail-${version}';

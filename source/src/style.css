@@ -413,3 +413,23 @@ button.tile { width: 100%; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
 }
+
+/* ---------- describe it (Mood tab) ---------- */
+.ask { background: var(--surface); border: 1px solid var(--line); border-radius: 20px; padding: 16px; display: grid; gap: 12px; }
+.ask h2 { font-family: var(--font-display); font-weight: 400; font-size: clamp(24px, 6.5vw, 30px); line-height: 1.1; }
+.ask .field textarea { min-height: 64px; }
+.ask .chips { margin-inline: -16px; padding-inline: 16px; }
+.ask-note { font-size: 13px; color: var(--muted); display: flex; align-items: center; gap: 8px; }
+.ask-results { display: grid; gap: 14px; }
+.ask-reply { font-family: var(--font-display); font-size: 20px; line-height: 1.2; }
+.ask-top-why { grid-column: 1 / -1; color: var(--navy-ink) !important; font-size: 15px !important; }
+.row-why { font-size: 13px; color: var(--ink-2); line-height: 1.35; }
+.match > * { min-width: 0; }
+.match h2 { overflow-wrap: anywhere; }
+@media (max-width: 360px) { .match h2 { font-size: 24px; } }
+.or-quiz { margin-top: 6px; }
+.key-steps { margin: 0; padding-left: 20px; font-size: 13px; color: var(--ink-2); display: grid; gap: 4px; }
+.key-status { font-size: 13px; font-weight: 600; min-height: 18px; color: var(--ink-2); }
+.pulse { width: 9px; height: 9px; border-radius: 50%; background: var(--signal); animation: askpulse 1.2s ease-in-out infinite; flex: none; }
+@keyframes askpulse { 50% { opacity: .25; } }
+@media (prefers-reduced-motion: reduce) { .pulse { animation: none; } }
