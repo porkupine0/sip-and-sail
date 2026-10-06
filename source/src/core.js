@@ -32,7 +32,7 @@
   };
   const MUDDLE = new Set(['mint', 'basil', 'rosemary', 'cucumber', 'jalapeno', 'limewedge', 'lemonwedge',
     'orangeslice', 'cherry', 'straw', 'raspberries', 'blackberries', 'blueberries', 'pinechunk', 'melon',
-    'ginger', 'sugar']);
+    'ginger', 'sugar', 'kiwi']);
   // How strongly a creamy ingredient whitens (scatters) a drink, for the color model.
   const CREAMY = { cream: 1, milk: .9, icecream: .85, cococream: .85, 'coconut-milk': .8, condensed: .8,
     baileys: .65, rumchata: .7, godiva: .35, trose: .55, eggwhite: .35, sorbet: .6, banana: .5, whipped: 0 };
@@ -161,6 +161,30 @@
     return rgbToHex(rgb);
   }
 
+  function recipeFromLine(line, cat, ING, errors, ln) {
+    const parts = line.split('|');
+    if (parts.length !== 7) { errors.push(`line ${ln + 1}: expected 7 fields, got ${parts.length}: ${line.slice(0, 60)}`); return null; }
+    const [name, tagStr, glass, method, ingStr, garnish, note] = parts;
+    const where = name;
+    if (!GLASSES[glass]) errors.push(`${where}: unknown glass ${glass}`);
+    if (!METHODS[method]) errors.push(`${where}: unknown method ${method}`);
+    const items = ingStr.split(';').filter(Boolean).map(t => parseItem(t, ING, errors, where));
+    const tags = new Set(tagStr.split(',').map(s => s.trim()).filter(Boolean));
+    let color = null;
+    for (const t of [...tags]) if (t[0] === '#') { color = t; tags.delete(t); }
+    return { name, cat, tags, glass, method, items, garnish: garnish === 'No garnish' ? '' : garnish, note, color };
+  }
+
+  // One recipe line added at runtime (a drink Claude wrote). Nothing is returned unless the line is fully valid.
+  function parseRecipe(line, cat, ING) {
+    const errors = [];
+    if (!CATS[cat]) errors.push(`bad cat ${cat}`);
+    const r = recipeFromLine(line, cat, ING, errors, 0);
+    if (!r || !r.items.length || errors.length) return { r: null, errors: errors.length ? errors : ['no ingredients'] };
+    derive(r, ING);
+    return { r, errors };
+  }
+
   function parseData(ingText, recipeText, listText) {
     const ING = parseIngredients(ingText);
     const errors = [];
@@ -171,19 +195,10 @@
       const line = raw.trim();
       if (!line || line[0] === '#') return;
       if (line.startsWith('@cat ')) { cat = line.slice(5).trim(); if (!CATS[cat]) errors.push(`bad cat ${cat}`); return; }
-      const parts = line.split('|');
-      if (parts.length !== 7) { errors.push(`line ${ln + 1}: expected 7 fields, got ${parts.length}: ${line.slice(0, 60)}`); return; }
-      const [name, tagStr, glass, method, ingStr, garnish, note] = parts;
-      const where = name;
-      if (!GLASSES[glass]) errors.push(`${where}: unknown glass ${glass}`);
-      if (!METHODS[method]) errors.push(`${where}: unknown method ${method}`);
-      const items = ingStr.split(';').filter(Boolean).map(t => parseItem(t, ING, errors, where));
-      const tags = new Set(tagStr.split(',').map(s => s.trim()).filter(Boolean));
-      let color = null;
-      for (const t of [...tags]) if (t[0] === '#') { color = t; tags.delete(t); }
-      const r = { name, cat, tags, glass, method, items, garnish: garnish === 'No garnish' ? '' : garnish, note, color };
-      if (byName.has(norm(name))) errors.push(`duplicate drink name: ${name}`);
-      byName.set(norm(name), r);
+      const r = recipeFromLine(line, cat, ING, errors, ln);
+      if (!r) return;
+      if (byName.has(norm(r.name))) errors.push(`duplicate drink name: ${r.name}`);
+      byName.set(norm(r.name), r);
       recipes.push(r);
     });
 
@@ -432,7 +447,7 @@
 
   const api = {
     GROUPS, CATS, GLASSES, METHODS, STRENGTH, FLAVOR_LABELS,
-    parseData, fmtItem, itemPlain, steps, orderLine, recipeText, similar, norm, slug, frac, ml, mixColor
+    parseData, parseIngredients, parseRecipe, fmtItem, itemPlain, steps, orderLine, recipeText, similar, norm, slug, frac, ml, mixColor
   };
   if (typeof module !== 'undefined' && module.exports) module.exports = api;
   else root.SSCore = api;

@@ -436,3 +436,27 @@ button.tile { width: 100%; }
 .pulse { width: 9px; height: 9px; border-radius: 50%; background: var(--signal); animation: askpulse 1.2s ease-in-out infinite; flex: none; }
 @keyframes askpulse { 50% { opacity: .25; } }
 @media (prefers-reduced-motion: reduce) { .pulse { animation: none; } }
+
+/* ---------- create with Claude ---------- */
+.mk-h { display: flex; align-items: center; gap: 8px; font-family: var(--font-display); font-weight: 400; font-size: clamp(24px, 6.5vw, 30px); line-height: 1.1; margin-top: 4px; }
+.mk-h svg { width: 22px; height: 22px; color: var(--sea); flex: none; }
+.mk-lede { font-size: 14px; margin: 6px 0 12px; }
+.mk .field textarea { min-height: 64px; }
+.mk .chips { margin-block: 10px; }
+#mk-out { margin-top: 14px; display: grid; gap: 12px; }
+#mk-out:empty { display: none; }
+.mk-res { display: grid; gap: 12px; }
+.mk-card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 14px; display: grid; gap: 12px; min-width: 0; }
+.mk-head { grid-template-columns: 80px minmax(0, 1fr); }
+.mk-head h2 { overflow-wrap: anywhere; font-size: clamp(22px, 6.2vw, 30px); }
+.mk-card .dt-note { margin-top: 0; }
+.mk-card .facts { margin-top: 0; }
+.mk-of { font-size: 14px; color: var(--ink-2); }
+.mk-of .linkish, .mine-note .linkish { padding: 0; font-size: inherit; }
+.mk-err { font-size: 14px; color: var(--ink); background: color-mix(in srgb, var(--signal) 12%, var(--surface)); border: 1px solid var(--signal); border-radius: 12px; padding: 10px 12px; }
+.make-cta { display: grid; gap: 8px; justify-items: center; text-align: center; color: var(--muted); font-size: 14px; margin-top: 12px; }
+.make-cta.left { justify-items: start; text-align: left; margin-top: 0; }
+.make-cta .btn svg, .mk-res .btn svg { width: 16px; height: 16px; }
+.mk-mine { color: var(--sea); }
+.mine-note { margin-top: 10px; font-size: 13px; color: var(--ink-2); display: flex; gap: 8px; align-items: flex-start; }
+.mine-note svg { width: 16px; height: 16px; color: var(--sea); flex: none; margin-top: 1px; }

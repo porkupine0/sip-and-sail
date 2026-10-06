@@ -1,7 +1,7 @@
 {
   "name": "Sip & Sail",
   "short_name": "Sip & Sail",
-  "description": "Offline cruise drink companion: 530 whiskey-free recipes, ingredient filters, a mood quiz, Surprise Me and bartender cards.",
+  "description": "Offline cruise drink companion: 535 whiskey-free recipes, ingredient filters, a mood quiz, Surprise Me and bartender cards.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
