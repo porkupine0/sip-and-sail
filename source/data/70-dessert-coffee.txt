@@ -40,6 +40,8 @@ Kahlúa Iced Coffee|coffee,creamy|highball|bu|1.5 kahlua;4 coldbrew;1 milk|No ga
 RumChata Iced Coffee|coffee,creamy,sweet|highball|bu|1.5 rumchata;4 coldbrew|Cinnamon|Cinnamon-cream cold brew.
 Hot Buttered Rum|sweet,dessert,pop|mug|hot|2 drum;x1 butterpat;t2 sugar:=Brown sugar;d1 cinnamon;4 water:=Hot water|Cinnamon stick|Colonial-era comfort for a chilly deck.
 Hot Toddy (Brandy)|citrus,sweet,pop|mug|hot|1.5 brandy:or dark rum;.75 lemon;.75 honey;4 water:=Hot water|Lemon wheel & cinnamon stick|The classic soother, made without whiskey.
+Hot Toddy (Whiskey)|citrus,sweet,pop|mug|hot|2 whiskey;.75 lemon;.75 honey;4 water:=Hot water|Lemon wheel & cinnamon stick|The original winter warmer: whiskey, honey, lemon and hot water.
+Irish Coffee|coffee,creamy,sweet,pop|mug|bn|1.5 whiskey:Irish;5 coffee:strong hot;.75 simple;top whipped|Whipped cream & cocoa dust|Dublin's famous coffee drink. Float the whipped cream on top.
 Peppermint Patty|dessert,minty|mug|hot|1.5 pschnapps;5 hotchoc;top whipped|Mint or candy cane|Hot chocolate spiked with peppermint schnapps.
 Spiked Mexican Hot Chocolate|spicy|mug|hot|1.5 teqa:or reposado;5 hotchoc;d1 cinnamon;pinch cayenne|Cinnamon stick|Chocolate, cinnamon and a little heat.
 Baileys Hot Chocolate|creamy,dessert|mug|hot|1.5 baileys;5 hotchoc;top whipped|Cocoa dust|Pure comfort.

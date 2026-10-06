@@ -24,6 +24,10 @@ mezcal|Mezcal|spirit|Mezcal|42|f1f1e8|0||smoky
 brandy|Brandy|spirit|Brandy & cognac|40|b0601f|0.9||
 cognac|Cognac|spirit|Brandy & cognac|40|b0601f|0.9||
 applebrandy|Apple brandy (Calvados)|spirit|Brandy & cognac|40|c3843a|0.6||
+whiskey|Whiskey (bourbon or rye)|spirit|Whiskey|40|8b6f47|1.2||
+bourbon|Bourbon whiskey|spirit|Whiskey|40|a0826d|1.2||
+rye|Rye whiskey|spirit|Whiskey|40|8b6f47|1.2||
+scotch|Scotch whisky|spirit|Whiskey|43|9d8b7e|1.2||
 pisco|Pisco|spirit|Pisco|40|f2f5f0|0||
 guaro|Guaro (Costa Rican cane spirit)|spirit|Guaro|30|f2f6f7|0||
 absinthe|Absinthe|spirit|Absinthe & anise|60|a8c878|0.6||anise herbal

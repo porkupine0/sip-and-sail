@@ -32,6 +32,10 @@ Martinez|strong,herbal|coupe|st|1.5 oldtom:or London dry gin;1.5 verms;.25 maras
 Breakfast Martini|citrus,tart|martini|sh|2 gin;.5 cointreau;.75 lemon;b2 marmalade|Orange twist|Salvatore Calabrese's 1996 classic, made with orange marmalade.
 Pomegranate Martini|fruity,tart|martini|sh|1.5 vodka;.5 cointreau;1.5 pomegranate;.5 lemon|Pomegranate seeds|Jewel-red and tart.
 Watermelon Martini|fruity,fresh|martini|sh|1.5 vodka;2 watermelon-j;.5 lime;.25 simple|Watermelon wedge|Light and refreshing.
+Strawberry Cosmopolitan|fruity,tart,pop|martini|sh|1.5 citron;.75 cointreau;1.5 straw-pur;.5 lime|Strawberries|A pink twist on the classic cosmo.
+Kiwi Martini|fruity,tropical,tart|martini|sh|2 vodka;.75 lychee-liq;1.5 mango;.5 lime|Kiwi slice|Green and tart with tropical depths.
+Guava Martini|fruity,tropical,sweet|martini|sh|1.5 vodka;.5 guavaberry;1.5 guava;.5 lime|Guava slice|Light, fruity and tropical.
+Pineapple Martini|fruity,tropical,sweet|martini|sh|1.5 vodka;.5 cointreau;2 pine;.5 lime|Pineapple wedge|Juicy tropical island in a glass.
 Cucumber Elderflower Martini|fresh,floral|martini|mus|x4 cucumber;2 vodka;.75 stg;.5 lime|Cucumber ribbon|Crisp and garden-fresh.
 Peach Martini|fruity,sweet|martini|sh|1.5 vodka;.75 peach;1 peach-pur;.5 lemon|Peach slice|Juicy and smooth.
 Mango Martini|fruity,tropical|martini|sh|1.5 vodka;.5 cointreau;1.5 mango;.5 lime|Mango slice|Tropical and silky.
