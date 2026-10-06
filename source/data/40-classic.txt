@@ -64,17 +64,4 @@ Amaretto Sour|nutty,tart,sweet,pop|rocks|shr|2 amaretto;1 lemon;.25 simple;?.75 
 Midori Sour|sweet,tart,fun,pop|rocks|shr|1.5 midori;.5 vodka;1 lemon;.25 simple|Cherry|Bright green and candy-like.
 Sloe Gin Fizz|fruity,bubbly,pop|highball|sh|1.5 sloe;.5 gin;.75 lemon;.5 simple;top soda|Lemon wheel|Plummy and bright.
 Godmother|nutty,strong,pop|rocks|str|1.5 vodka;.75 amaretto|No garnish|Vodka and amaretto: the whiskey-free sibling of the Godfather.
-Whiskey Old Fashioned|strong,complex,pop|rocks|str|x1 orangeslice;x1 cherry;t1 sugar;d2 angostura;2 whiskey;top water|Orange peel & cherry|The classic Old Fashioned: whiskey, sugar, bitters, ice.
-Bourbon Smash|fruity,herbal,fresh|rocks|mus|x8 mint;x4 straw;2 bourbon;.75 lemon;.5 simple|Mint sprig & strawberry|Whiskey's answer to the gin smash.
-Manhattan|strong,herbal,elegant,pop|coupe|st|2 whiskey;1 verms;d2 angostura|Cherry|The king of whiskey cocktails. Stir with ice, serve up.
-Dry Manhattan|strong,dry|coupe|st|2 whiskey;.75 vermd;d2 angostura|Lemon twist|Less sweet than the classic. For dry whiskey lovers.
-Perfect Manhattan|balanced,herbal|coupe|st|2 whiskey;.5 verms;.5 vermd;d1 angostura|Cherry & lemon twist|Half sweet, half dry vermouth for balance.
-Sazerac|strong,herbal,spicy,pop|rocks|st|rinse absinthe;2 rye;.25 simple;d2 peychauds;d1 angostura|Lemon peel|New Orleans 1850s. Serve in a chilled, absinthe-rinsed glass.
-Vieux Carré|strong,herbal,complex|rocks|st|.75 rye;.75 cognac;.75 verms;.25 benedictine;d1 angostura;d1 peychauds|Lemon twist & cherry|1930s New Orleans: a complex blend of rye, cognac, and herbal spirits.
-Rob Roy|strong,herbal,elegant,pop|coupe|st|2 scotch;1 verms;d1 angostura|Cherry|The Scottish Manhattan.
-Whiskey Sour|tart,sweet,balanced,pop|rocks|shr|2 whiskey;.75 lemon;.75 simple;?1 eggwhite|Cherry|Whiskey's classic sour. Add egg white for silky texture.
-New York Sour|tart,fruity,elegant|coupe|sh|2 whiskey;1 lemon;.75 simple;f.5 grenadine;?1 eggwhite|Cherry & lemon|A whiskey sour with a grenadine float that sinks into the drink.
-Mint Julep|minty,sweet,fresh,pop|rocks|mu|x12 mint;.5 simple;2 bourbon;.25 water|Mint bouquet & bourbon splash|Kentucky Derby's iconic drink. Serve in a silver cup with crushed ice.
-Godfather|nutty,strong|rocks|st|1.5 whiskey;.75 amaretto|No garnish|Whiskey and almond. The whiskey version of the Godmother.
-Whiskey Flip|creamy,strong,sweet|coupe|sh|2 whiskey;1 cream;.75 simple;1 eggwhite|Fresh grated nutmeg|Egg and cream in a spirit cocktail. Old-school indulgence.
-Widow's Kiss|herbal,floral,elegant|coupe|sh|1.5 bourbon;.5 chartg;.5 benedictine;d1 angostura|Orange peel|A vintage cocktail with chartreuse and benedictine elegance.
+Widow's Kiss|herbal,elegant|coupe|st|1.5 applebrandy;.75 benedictine;.75 charty;d2 angostura|Cherry|George Kappeler's 1895 classic: apple brandy with two French monastery liqueurs. Rich and herbal.
